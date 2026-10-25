@@ -1,0 +1,866 @@
+{
+  "schemaVersion": 1,
+  "kind": "external-runtime-asset-requirements",
+  "scope": "44 external images; no artwork binaries or private production records included",
+  "dimensions": [
+    1024,
+    1536
+  ],
+  "groups": [
+    {
+      "id": "horror",
+      "title": "Horror"
+    },
+    {
+      "id": "privacy-wizard",
+      "title": "The Privacy Wizard"
+    },
+    {
+      "id": "privacy-wars",
+      "title": "Privacy Wars"
+    },
+    {
+      "id": "consent-matrix",
+      "title": "The Consent Matrix"
+    }
+  ],
+  "items": [
+    {
+      "id": "MP-8A1C360E28",
+      "title": "A Nightmare On LLM Street",
+      "group": "horror",
+      "seriesOrder": 0,
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "filmIds": [
+        "tt0087800"
+      ],
+      "runtime": {
+        "file": "a-nightmare-on-llm-street-MP-8A1C360E28.png",
+        "url": "/guides/movie-posters/art/a-nightmare-on-llm-street-MP-8A1C360E28.png",
+        "sha256": "e42db9ddfc53148048248ebd77cf31949e49cf0830960c21ffe7995224563c12",
+        "bytes": 2586804
+      }
+    },
+    {
+      "id": "MP-1BE1F02B4B",
+      "title": "Align",
+      "group": "horror",
+      "seriesOrder": 0,
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "filmIds": [
+        "tt0078748"
+      ],
+      "runtime": {
+        "file": "align-MP-1BE1F02B4B.png",
+        "url": "/guides/movie-posters/art/align-MP-1BE1F02B4B.png",
+        "sha256": "932d7f438368361cc927a766c52ba5da374bfd5c0ee585832395c4983a2c3758",
+        "bytes": 1516445
+      }
+    },
+    {
+      "id": "MP-DB86854770",
+      "title": "Alloween",
+      "group": "horror",
+      "seriesOrder": 0,
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "filmIds": [
+        "tt0077651"
+      ],
+      "runtime": {
+        "file": "alloween-MP-DB86854770-2x3-v1.png",
+        "url": "/guides/movie-posters/art/alloween-MP-DB86854770-2x3-v1.png",
+        "sha256": "7137f7970b24129ff5d7a69f225e691a6d30c585102707a3ddb1abec6af523ec",
+        "bytes": 1310775
+      }
+    },
+    {
+      "id": "MP-A4D00ECDFA",
+      "title": "Background Activity",
+      "group": "horror",
+      "seriesOrder": 0,
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "filmIds": [
+        "tt1179904"
+      ],
+      "runtime": {
+        "file": "background-activity-MP-A4D00ECDFA-2x3-v1.png",
+        "url": "/guides/movie-posters/art/background-activity-MP-A4D00ECDFA-2x3-v1.png",
+        "sha256": "98275647f296e5f6425e65b69f17aa0572e7456d746eb921bcb32373f8f4bf58",
+        "bytes": 1571388
+      }
+    },
+    {
+      "id": "MP-33877EBD1E",
+      "title": "Bring Her Back",
+      "group": "horror",
+      "seriesOrder": 0,
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "filmIds": [
+        "tt32246771"
+      ],
+      "runtime": {
+        "file": "bring-her-back-MP-33877EBD1E-2x3-v5.png",
+        "url": "/guides/movie-posters/art/bring-her-back-MP-33877EBD1E-2x3-v5.png",
+        "sha256": "a57d1662fc618868a82a3d0e456d96b40ad62b7691d8b51e8e7e638e1c1d4770",
+        "bytes": 2842122
+      }
+    },
+    {
+      "id": "MP-7D2BB0AD31",
+      "title": "Days Later",
+      "group": "horror",
+      "seriesOrder": 0,
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "filmIds": [
+        "tt0289043"
+      ],
+      "runtime": {
+        "file": "days-later-MP-7D2BB0AD31-2x3-v7.png",
+        "url": "/guides/movie-posters/art/days-later-MP-7D2BB0AD31-2x3-v7.png",
+        "sha256": "9711e9b38b3ee6a307777e2420c627595c811a6c3e2d50ef766603a8e0839406",
+        "bytes": 2910809
+      }
+    },
+    {
+      "id": "MP-88508E1973",
+      "title": "Drag Me To Sell",
+      "group": "horror",
+      "seriesOrder": 0,
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "filmIds": [
+        "tt1127180"
+      ],
+      "runtime": {
+        "file": "drag-me-to-sell-MP-88508E1973-2x3-v7.png",
+        "url": "/guides/movie-posters/art/drag-me-to-sell-MP-88508E1973-2x3-v7.png",
+        "sha256": "e59ff4122630c22de9acf3ad9766c672ea9486a74c55946fd7eca830d5433401",
+        "bytes": 2997642
+      }
+    },
+    {
+      "id": "MP-FD93675F65",
+      "title": "Frankenstein’s Repo",
+      "group": "horror",
+      "seriesOrder": 0,
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "filmIds": [
+        "tt0021884"
+      ],
+      "runtime": {
+        "file": "frankensteins-repo-MP-FD93675F65.png",
+        "url": "/guides/movie-posters/art/frankensteins-repo-MP-FD93675F65.png",
+        "sha256": "90e3fdb72e0a2c6cb876cad59bb76fc97a4011b7c4698506371137728f248c06",
+        "bytes": 2916334
+      }
+    },
+    {
+      "id": "MP-AD712DA93B",
+      "title": "I Know What You Trained Last Summer",
+      "group": "horror",
+      "seriesOrder": 0,
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "filmIds": [
+        "tt0119345"
+      ],
+      "runtime": {
+        "file": "i-know-what-you-trained-last-summer-MP-AD712DA93B.png",
+        "url": "/guides/movie-posters/art/i-know-what-you-trained-last-summer-MP-AD712DA93B.png",
+        "sha256": "8686b4fa21b4e0dcb1d6029a96bfcca9d742186a90967b843c1c1e3675853608",
+        "bytes": 2971634
+      }
+    },
+    {
+      "id": "MP-6076BBFB79",
+      "title": "Inherited",
+      "group": "horror",
+      "seriesOrder": 0,
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "filmIds": [
+        "tt7784604"
+      ],
+      "runtime": {
+        "file": "inherited-MP-6076BBFB79-2x3-v3.png",
+        "url": "/guides/movie-posters/art/inherited-MP-6076BBFB79-2x3-v3.png",
+        "sha256": "b341f0416b4714163d9974ff5913eb70eb4dc83d4bb56f5591fa390530d1f203",
+        "bytes": 2443668
+      }
+    },
+    {
+      "id": "MP-E10DD019D7",
+      "title": "Invasion Of The Data Snatchers",
+      "group": "horror",
+      "seriesOrder": 0,
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "filmIds": [
+        "tt0049366"
+      ],
+      "runtime": {
+        "file": "invasion-of-the-data-snatchers-MP-E10DD019D7.png",
+        "url": "/guides/movie-posters/art/invasion-of-the-data-snatchers-MP-E10DD019D7.png",
+        "sha256": "5195d4737cf6b903db285dd95c423489d2285143b91b8387058d542bb681906a",
+        "bytes": 2944441
+      }
+    },
+    {
+      "id": "MP-51FDEA7EA7",
+      "title": "Laws",
+      "group": "horror",
+      "seriesOrder": 0,
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "filmIds": [
+        "tt0073195"
+      ],
+      "runtime": {
+        "file": "laws-MP-51FDEA7EA7-2x3-v2.png",
+        "url": "/guides/movie-posters/art/laws-MP-51FDEA7EA7-2x3-v2.png",
+        "sha256": "285f5d917dff2d28aecadc106544f2f2e370d50c0cc7b66cde7a32886b4006ec",
+        "bytes": 2546042
+      }
+    },
+    {
+      "id": "MP-82B37CECCC",
+      "title": "Obsessed With Your Data",
+      "group": "horror",
+      "seriesOrder": 0,
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "filmIds": [
+        "tt37287335"
+      ],
+      "runtime": {
+        "file": "obsessed-with-your-data-MP-82B37CECCC-2x3-v2.png",
+        "url": "/guides/movie-posters/art/obsessed-with-your-data-MP-82B37CECCC-2x3-v2.png",
+        "sha256": "6c2c0614547a63599a578a3536c23f569b4dbc8ea4b6413afab79b91e5daa554",
+        "bytes": 1789289
+      }
+    },
+    {
+      "id": "MP-39B993BDE4",
+      "title": "SaaS",
+      "group": "horror",
+      "seriesOrder": 0,
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "filmIds": [
+        "tt0387564"
+      ],
+      "runtime": {
+        "file": "saas-MP-39B993BDE4-2x3-v6.png",
+        "url": "/guides/movie-posters/art/saas-MP-39B993BDE4-2x3-v6.png",
+        "sha256": "09f3de0c83d0efe0b89346436b5f19f63919032dfc50450a09e7ccf4c1142055",
+        "bytes": 3231603
+      }
+    },
+    {
+      "id": "MP-AA3CF91937",
+      "title": "Shadow IT",
+      "group": "horror",
+      "seriesOrder": 0,
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "filmIds": [
+        "tt1396484"
+      ],
+      "runtime": {
+        "file": "shadow-it-MP-AA3CF91937.png",
+        "url": "/guides/movie-posters/art/shadow-it-MP-AA3CF91937.png",
+        "sha256": "bc9c71d36ceaef3e690899f8cb92acb27a37e422169f95b41b346cc07d1e2458",
+        "bytes": 2077910
+      }
+    },
+    {
+      "id": "MP-07405D9732",
+      "title": "Talk To Me",
+      "group": "horror",
+      "seriesOrder": 0,
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "filmIds": [
+        "tt10638522"
+      ],
+      "runtime": {
+        "file": "talk-to-me-MP-07405D9732-2x3-v1.png",
+        "url": "/guides/movie-posters/art/talk-to-me-MP-07405D9732-2x3-v1.png",
+        "sha256": "73a0b44898a050c0027e35d5784690356be815fda78694c45c98adb5ae3dc55c",
+        "bytes": 1670922
+      }
+    },
+    {
+      "id": "MP-5A17BE89A8",
+      "title": "The Black Box Project",
+      "group": "horror",
+      "seriesOrder": 0,
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "filmIds": [
+        "tt0185937"
+      ],
+      "runtime": {
+        "file": "the-black-box-project-MP-5A17BE89A8.png",
+        "url": "/guides/movie-posters/art/the-black-box-project-MP-5A17BE89A8.png",
+        "sha256": "25c9e4ffc9c36fab2ccc2e6c8ad5f44c568b6eb5e696e504f06893d59bc51209",
+        "bytes": 2185904
+      }
+    },
+    {
+      "id": "MP-D191E99B7E",
+      "title": "The Consenting",
+      "group": "horror",
+      "seriesOrder": 0,
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "filmIds": [
+        "tt1457767"
+      ],
+      "runtime": {
+        "file": "the-consenting-MP-D191E99B7E.png",
+        "url": "/guides/movie-posters/art/the-consenting-MP-D191E99B7E.png",
+        "sha256": "b0ae8d9dec451544b79052590bbbdc060e0bfc65491933aa47d540228c533769",
+        "bytes": 3122452
+      }
+    },
+    {
+      "id": "MP-379FDCCB62",
+      "title": "The Covered Entity",
+      "group": "horror",
+      "seriesOrder": 0,
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "filmIds": [
+        "tt0021814"
+      ],
+      "runtime": {
+        "file": "the-covered-entity-MP-379FDCCB62.png",
+        "url": "/guides/movie-posters/art/the-covered-entity-MP-379FDCCB62.png",
+        "sha256": "9fe3848f8a66be5b555e718cb8abb9f371a2fb29c7cb0ee9527070287c9848e3",
+        "bytes": 2756825
+      }
+    },
+    {
+      "id": "MP-D437502266",
+      "title": "The Databook",
+      "group": "horror",
+      "seriesOrder": 0,
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "filmIds": [
+        "tt2321549"
+      ],
+      "runtime": {
+        "file": "the-databook-MP-D437502266-2x3-v7.png",
+        "url": "/guides/movie-posters/art/the-databook-MP-D437502266-2x3-v7.png",
+        "sha256": "4bdd8ba469b78dafd529727e4db2c6fcdb591ff4eb36d81c544143db24317d5d",
+        "bytes": 2748185
+      }
+    },
+    {
+      "id": "MP-D07C925B18",
+      "title": "The Exportist",
+      "group": "horror",
+      "seriesOrder": 0,
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "filmIds": [
+        "tt0070047"
+      ],
+      "runtime": {
+        "file": "the-exportist-MP-D07C925B18.png",
+        "url": "/guides/movie-posters/art/the-exportist-MP-D07C925B18.png",
+        "sha256": "a60042a8b865a0fb91bcfec936cdb32da779f4f82f965f50eccc17f52fecb0cb",
+        "bytes": 1689646
+      }
+    },
+    {
+      "id": "MP-280C0A1AEB",
+      "title": "The Merge",
+      "group": "horror",
+      "seriesOrder": 0,
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "filmIds": [
+        "tt2184339"
+      ],
+      "runtime": {
+        "file": "the-merge-MP-280C0A1AEB-2x3-v5.png",
+        "url": "/guides/movie-posters/art/the-merge-MP-280C0A1AEB-2x3-v5.png",
+        "sha256": "74c4f1c689103ef2828fbe571dc96c3f5956c0aedf36b0c31fdde204681d5e92",
+        "bytes": 2986784
+      }
+    },
+    {
+      "id": "MP-42447BB341",
+      "title": "The Nudge",
+      "group": "horror",
+      "seriesOrder": 0,
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "filmIds": [
+        "tt0391198"
+      ],
+      "runtime": {
+        "file": "the-nudge-MP-42447BB341-2x3-v5.png",
+        "url": "/guides/movie-posters/art/the-nudge-MP-42447BB341-2x3-v5.png",
+        "sha256": "df8d07d708554701be17f88d7d89617b8c2d7d0c4d79e6f5e54ef8eae67db8af",
+        "bytes": 1691693
+      }
+    },
+    {
+      "id": "MP-037875998F",
+      "title": "The Ping",
+      "group": "horror",
+      "seriesOrder": 0,
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "filmIds": [
+        "tt0298130"
+      ],
+      "runtime": {
+        "file": "the-ping-MP-037875998F-2x3-v1.png",
+        "url": "/guides/movie-posters/art/the-ping-MP-037875998F-2x3-v1.png",
+        "sha256": "802639c1757e9bc2f6daa19497558ed7851b9bae4d6b8c34a81d77f3e05224a2",
+        "bytes": 1585763
+      }
+    },
+    {
+      "id": "MP-3B9B4F7D98",
+      "title": "The Subprocessor",
+      "group": "horror",
+      "seriesOrder": 0,
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "filmIds": [
+        "tt17526714"
+      ],
+      "runtime": {
+        "file": "the-subprocessor-MP-3B9B4F7D98.png",
+        "url": "/guides/movie-posters/art/the-subprocessor-MP-3B9B4F7D98.png",
+        "sha256": "3c76bdecf401700fbc82f0ef8d7ff35bcf15ac6dc0615a1ce8d8bf9f511a4f2f",
+        "bytes": 1478670
+      }
+    },
+    {
+      "id": "MP-EB40D61E88",
+      "title": "The Svvitch",
+      "group": "horror",
+      "seriesOrder": 0,
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "filmIds": [
+        "tt4263482"
+      ],
+      "runtime": {
+        "file": "the-svvitch-MP-EB40D61E88.png",
+        "url": "/guides/movie-posters/art/the-svvitch-MP-EB40D61E88.png",
+        "sha256": "24dff9dd3e282151e816ddd84005c7e0188bf03de974a2415db6868a16145d35",
+        "bytes": 1871550
+      }
+    },
+    {
+      "id": "MP-DAA43E8721",
+      "title": "The Terms And Conditions Massacre",
+      "group": "horror",
+      "seriesOrder": 0,
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "filmIds": [
+        "tt0072271"
+      ],
+      "runtime": {
+        "file": "the-terms-and-conditions-massacre-MP-DAA43E8721-2x3-v5.png",
+        "url": "/guides/movie-posters/art/the-terms-and-conditions-massacre-MP-DAA43E8721-2x3-v5.png",
+        "sha256": "a4d2ae0fd96bae5c74dc5214726f86dd840439db80320e85ba50d0c0f54a2b7b",
+        "bytes": 2727293
+      }
+    },
+    {
+      "id": "MP-FD0A01F52B",
+      "title": "The Privacy Wizard and the Forbidden Dataset",
+      "group": "privacy-wizard",
+      "seriesOrder": 1,
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "filmIds": [
+        "tt0241527"
+      ],
+      "runtime": {
+        "file": "the-privacy-wizard-and-the-forbidden-dataset-MP-FD0A01F52B.png",
+        "url": "/guides/movie-posters/art/the-privacy-wizard-and-the-forbidden-dataset-MP-FD0A01F52B.png",
+        "sha256": "e651318c14e9e2d10eb05c3d564bc583f2a48e01e23874489856e66432fd4038",
+        "bytes": 2770371
+      }
+    },
+    {
+      "id": "MP-7996D167A2",
+      "title": "The Privacy Wizard and the Chamber of Proxy Variables",
+      "group": "privacy-wizard",
+      "seriesOrder": 2,
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "filmIds": [
+        "tt0295297"
+      ],
+      "runtime": {
+        "file": "the-privacy-wizard-and-the-chamber-of-proxy-variables-MP-7996D167A2.png",
+        "url": "/guides/movie-posters/art/the-privacy-wizard-and-the-chamber-of-proxy-variables-MP-7996D167A2.png",
+        "sha256": "029c2e9c9c2751095fdf49ba5ea8c07cd759243eed5e11d7941dbe3e360fb9d4",
+        "bytes": 2742288
+      }
+    },
+    {
+      "id": "MP-A56F163A63",
+      "title": "The Privacy Wizard and the Prisoner of Retention",
+      "group": "privacy-wizard",
+      "seriesOrder": 3,
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "filmIds": [
+        "tt0304141"
+      ],
+      "runtime": {
+        "file": "the-privacy-wizard-and-the-prisoner-of-retention-MP-A56F163A63.png",
+        "url": "/guides/movie-posters/art/the-privacy-wizard-and-the-prisoner-of-retention-MP-A56F163A63.png",
+        "sha256": "c43f9e67f3a8eff609148305583c987302fe8a4bea30883e7c8a95355083bfbc",
+        "bytes": 2862012
+      }
+    },
+    {
+      "id": "MP-4FDEBEC4C0",
+      "title": "The Privacy Wizard and the Goblet of Consent",
+      "group": "privacy-wizard",
+      "seriesOrder": 4,
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "filmIds": [
+        "tt0330373"
+      ],
+      "runtime": {
+        "file": "the-privacy-wizard-and-the-goblet-of-consent-MP-4FDEBEC4C0.png",
+        "url": "/guides/movie-posters/art/the-privacy-wizard-and-the-goblet-of-consent-MP-4FDEBEC4C0.png",
+        "sha256": "6b61342c85545f5a04168ae078c300c06f11a5e0cc4c416bf52b9e24e2537421",
+        "bytes": 3352296
+      }
+    },
+    {
+      "id": "MP-D94D023C06",
+      "title": "The Privacy Wizard and the Order of Accountability",
+      "group": "privacy-wizard",
+      "seriesOrder": 5,
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "filmIds": [
+        "tt0373889"
+      ],
+      "runtime": {
+        "file": "the-privacy-wizard-and-the-order-of-accountability-MP-D94D023C06.png",
+        "url": "/guides/movie-posters/art/the-privacy-wizard-and-the-order-of-accountability-MP-D94D023C06.png",
+        "sha256": "ef3a49b7fed3df5661e60a2268372cc24df5b42c36355becd3228e6403ae5231",
+        "bytes": 3577419
+      }
+    },
+    {
+      "id": "MP-FA81694EFA",
+      "title": "The Privacy Wizard and the Half-Trained Model",
+      "group": "privacy-wizard",
+      "seriesOrder": 6,
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "filmIds": [
+        "tt0417741"
+      ],
+      "runtime": {
+        "file": "the-privacy-wizard-and-the-half-trained-model-MP-FA81694EFA.png",
+        "url": "/guides/movie-posters/art/the-privacy-wizard-and-the-half-trained-model-MP-FA81694EFA.png",
+        "sha256": "9b9cd8b2e64b50a3033192f872cf1b12b1349aa6484ae069173387a14385da2d",
+        "bytes": 3623707
+      }
+    },
+    {
+      "id": "MP-EE14D128A1",
+      "title": "The Privacy Wizard and the Deadly Defaults",
+      "group": "privacy-wizard",
+      "seriesOrder": 7,
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "filmIds": [
+        "tt0926084",
+        "tt1201607"
+      ],
+      "runtime": {
+        "file": "the-privacy-wizard-and-the-deadly-defaults-MP-EE14D128A1.png",
+        "url": "/guides/movie-posters/art/the-privacy-wizard-and-the-deadly-defaults-MP-EE14D128A1.png",
+        "sha256": "600f2ef6055891c0c943215a8150976e68a78f4ef372220724ff1280b692a52a",
+        "bytes": 2914787
+      }
+    },
+    {
+      "id": "MP-8FC39256AD",
+      "title": "Privacy Wars: Episode I — The Phantom Purpose",
+      "group": "privacy-wars",
+      "seriesOrder": 1,
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "filmIds": [
+        "tt0120915"
+      ],
+      "runtime": {
+        "file": "privacy-wars-episode-i-the-phantom-purpose-MP-8FC39256AD.png",
+        "url": "/guides/movie-posters/art/privacy-wars-episode-i-the-phantom-purpose-MP-8FC39256AD.png",
+        "sha256": "36c07e6b44add75246c1ff0eab50e5bdbaa35894195931bb486f336a8b29597e",
+        "bytes": 2589207
+      }
+    },
+    {
+      "id": "MP-E880729FF7",
+      "title": "Privacy Wars: Episode II — Attack of the Data Clones",
+      "group": "privacy-wars",
+      "seriesOrder": 2,
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "filmIds": [
+        "tt0121765"
+      ],
+      "runtime": {
+        "file": "privacy-wars-episode-ii-attack-of-the-data-clones-MP-E880729FF7.png",
+        "url": "/guides/movie-posters/art/privacy-wars-episode-ii-attack-of-the-data-clones-MP-E880729FF7.png",
+        "sha256": "110bdbe9b6ec9ee6714636971800967ee80fb439fad1e24d972c52fc7813c976",
+        "bytes": 2368918
+      }
+    },
+    {
+      "id": "MP-1C57DD82DE",
+      "title": "Privacy Wars: Episode III — Revenge of the Dark Pattern",
+      "group": "privacy-wars",
+      "seriesOrder": 3,
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "filmIds": [
+        "tt0121766"
+      ],
+      "runtime": {
+        "file": "privacy-wars-episode-iii-revenge-of-the-dark-pattern-MP-1C57DD82DE.png",
+        "url": "/guides/movie-posters/art/privacy-wars-episode-iii-revenge-of-the-dark-pattern-MP-1C57DD82DE.png",
+        "sha256": "fdc57e0ac75b380b7a41a1e0f68f9e3d1f70ec7b2da5ed9482633b7519561ae8",
+        "bytes": 2654607
+      }
+    },
+    {
+      "id": "MP-449C56D499",
+      "title": "Privacy Wars: Episode IV — A New Default",
+      "group": "privacy-wars",
+      "seriesOrder": 4,
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "filmIds": [
+        "tt0076759"
+      ],
+      "runtime": {
+        "file": "privacy-wars-episode-iv-a-new-default-MP-449C56D499.png",
+        "url": "/guides/movie-posters/art/privacy-wars-episode-iv-a-new-default-MP-449C56D499.png",
+        "sha256": "a28fe62141f24eb9c34c2a5c50d3be5c5269644ee438d98e545d64a5b2ff60cc",
+        "bytes": 3099092
+      }
+    },
+    {
+      "id": "MP-9C68B044BB",
+      "title": "Privacy Wars: Episode V — The Platform Strikes Back",
+      "group": "privacy-wars",
+      "seriesOrder": 5,
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "filmIds": [
+        "tt0080684"
+      ],
+      "runtime": {
+        "file": "privacy-wars-episode-v-the-platform-strikes-back-MP-9C68B044BB.png",
+        "url": "/guides/movie-posters/art/privacy-wars-episode-v-the-platform-strikes-back-MP-9C68B044BB.png",
+        "sha256": "6ea58e1feaa8320adc2f05cde21fe8a7a210d39094a378c348570e0a6b634e46",
+        "bytes": 2841436
+      }
+    },
+    {
+      "id": "MP-C494970CAC",
+      "title": "Privacy Wars: Episode VI — Return of the Audit Trail",
+      "group": "privacy-wars",
+      "seriesOrder": 6,
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "filmIds": [
+        "tt0086190"
+      ],
+      "runtime": {
+        "file": "privacy-wars-episode-vi-return-of-the-audit-trail-MP-C494970CAC.png",
+        "url": "/guides/movie-posters/art/privacy-wars-episode-vi-return-of-the-audit-trail-MP-C494970CAC.png",
+        "sha256": "615685ec87ea3b79f34ce3fed512ca07b9462bbb030dfe91f598d6071290ea1d",
+        "bytes": 2830089
+      }
+    },
+    {
+      "id": "MP-C700713964",
+      "title": "Privacy Wars: Episode VII — The Rights Awaken",
+      "group": "privacy-wars",
+      "seriesOrder": 7,
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "filmIds": [
+        "tt2488496"
+      ],
+      "runtime": {
+        "file": "privacy-wars-episode-vii-the-rights-awaken-MP-C700713964.png",
+        "url": "/guides/movie-posters/art/privacy-wars-episode-vii-the-rights-awaken-MP-C700713964.png",
+        "sha256": "a98777d9096e2d327274a0cf08e5c757a160b679de887ca14da4ef4d6316698b",
+        "bytes": 3339111
+      }
+    },
+    {
+      "id": "MP-091A83E244",
+      "title": "The Consent Matrix",
+      "group": "consent-matrix",
+      "seriesOrder": 1,
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "filmIds": [
+        "tt0133093"
+      ],
+      "runtime": {
+        "file": "the-consent-matrix-MP-091A83E244.png",
+        "url": "/guides/movie-posters/art/the-consent-matrix-MP-091A83E244.png",
+        "sha256": "8e146c4805905a15353271bd69c488c13dd7ee8522161c44cecba894f5086f12",
+        "bytes": 2933840
+      }
+    },
+    {
+      "id": "MP-12307DE7A3",
+      "title": "The Consent Matrix: Reloaded",
+      "group": "consent-matrix",
+      "seriesOrder": 2,
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "filmIds": [
+        "tt0234215"
+      ],
+      "runtime": {
+        "file": "the-consent-matrix-reloaded-MP-12307DE7A3.png",
+        "url": "/guides/movie-posters/art/the-consent-matrix-reloaded-MP-12307DE7A3.png",
+        "sha256": "69a63eaca21cba8cd488b44c33236a04d1b6cd282bb0e08677d2f3a363349446",
+        "bytes": 2987954
+      }
+    },
+    {
+      "id": "MP-7A03F88C6B",
+      "title": "The Consent Matrix: Revocation",
+      "group": "consent-matrix",
+      "seriesOrder": 3,
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "filmIds": [
+        "tt0242653"
+      ],
+      "runtime": {
+        "file": "the-consent-matrix-revocation-MP-7A03F88C6B.png",
+        "url": "/guides/movie-posters/art/the-consent-matrix-revocation-MP-7A03F88C6B.png",
+        "sha256": "88c7e8841d90e7acb43e0bd1f69cb3d876dbe586b3b7400294ac9e2db20840a2",
+        "bytes": 3141575
+      }
+    }
+  ]
+}

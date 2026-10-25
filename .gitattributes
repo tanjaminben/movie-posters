@@ -1,0 +1,2 @@
+# Keep exact imported bytes and their provenance hashes across Windows clones.
+* -text

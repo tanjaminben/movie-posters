@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 1,
+  "kind": "public-source-snapshot",
+  "project": "movie-posters",
+  "files": [
+    {
+      "path": ".gitattributes",
+      "bytes": 87,
+      "sha256": "477aaa7a9e28f0dd100d300dfd7aaf7424c67f04daabc97980e949bc8b6897f0"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 67,
+      "sha256": "158841680499b25d24ec6f083092a33d279df398fdee5a799ecf430586474258"
+    },
+    {
+      "path": "assets/manifest.json",
+      "bytes": 24312,
+      "sha256": "1b04ece5894251c72fea905cd7fdb4a64df4c0d14078dd75d77f73d9d28ad9ef"
+    },
+    {
+      "path": "docs/images/banner.png",
+      "bytes": 1866272,
+      "sha256": "16b8f691a1cdc32724138422a5d0cdc102b501ee0f8093ccc48f333dcf9fb987"
+    },
+    {
+      "path": "docs/images/buttons/kofi-static.svg",
+      "bytes": 10065,
+      "sha256": "4181360ad81a84d3cf4559c928f93edf3b12f1a45b2b600ebea002fecf0e5863"
+    },
+    {
+      "path": "docs/images/buttons/kofi.svg",
+      "bytes": 10347,
+      "sha256": "508496ae7e231eede97f9d55184b3cda4510402be6bc1466efbd3f4e07a1ea7f"
+    },
+    {
+      "path": "docs/images/buttons/LICENSE-Barlow.txt",
+      "bytes": 4377,
+      "sha256": "186d750eb496a4c17a76385f82be6aea2ac1cf2de074a811d63786cf374ea73f"
+    },
+    {
+      "path": "docs/images/buttons/movie-posters.svg",
+      "bytes": 7198,
+      "sha256": "9ef740ff5eb1a9d642885948b5f9488f5cc1f615c8912375e8f61aa7e05c8e0c"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 369,
+      "sha256": "5de52924c8bdea4ae20fb7518cc08b36c43478daa96d3f33fe7f841c3c7efd36"
+    },
+    {
+      "path": "package.json",
+      "bytes": 508,
+      "sha256": "d801448eef6f7b7e23acdf463ca4840fc5e4390dca19a5ec3195d0f2e1e3e751"
+    },
+    {
+      "path": "provenance/shared-dependencies.json",
+      "bytes": 709,
+      "sha256": "1172b4213a4fa75b880eb997210948bac4932e6a8eeabf3a65793ae4fa9dddcf"
+    },
+    {
+      "path": "provenance/source-snapshot.json",
+      "bytes": 844,
+      "sha256": "705224e3c20e85973cfaa2016c6c88b5bb4a0ae788e024cf9e7a45a6ff922d4b"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2846,
+      "sha256": "12409af8c0ec8b009b3efe1ffd58b7047ab5e61137cfd18f42915daf2d311a0b"
+    },
+    {
+      "path": "scripts/build.mjs",
+      "bytes": 4403,
+      "sha256": "904c110c7ff6b711c433356f2ab05bd5e0031b2e0ee5d8300ad1ecb2bc92afce"
+    },
+    {
+      "path": "scripts/serve.mjs",
+      "bytes": 2977,
+      "sha256": "a775a88786792213d99a1bf7dfb32c2e187e30b2f4316a0927ffd978cd4ee761"
+    },
+    {
+      "path": "scripts/verify-snapshot.mjs",
+      "bytes": 2796,
+      "sha256": "949e056dc7828346e2ecae3848859b017ba594d5ed216cf8dd0de2cb38d68660"
+    },
+    {
+      "path": "scripts/verify.mjs",
+      "bytes": 3470,
+      "sha256": "cfbb5dd7603fcaf427d9ccd91c70b6dca885475fbfa43852b495fcf7efc1c2bc"
+    },
+    {
+      "path": "SECURITY.md",
+      "bytes": 431,
+      "sha256": "18fd718410dcbd5b26aa36254db77033d784671caeebbca9740b50bbe7604d6c"
+    },
+    {
+      "path": "SOURCE-SNAPSHOT.md",
+      "bytes": 858,
+      "sha256": "6abe3a526b9c66824f50899cec94c86d362a94be608f2de3494b232032cc45a0"
+    },
+    {
+      "path": "src/index.template.html",
+      "bytes": 31533,
+      "sha256": "82fff0355dd19f12ba7a9aaf71cfc6fcdb7a0a30c960b5b2853b33895cf4907e"
+    },
+    {
+      "path": "src/posters-data.json",
+      "bytes": 26930,
+      "sha256": "42227eef3fea34eda83fe64aa3cef0bd82c404f5f7777be74683cfe064c45aab"
+    },
+    {
+      "path": "src/posters.css",
+      "bytes": 7118,
+      "sha256": "d50cfaaf1759208d484a64b6d9c42387650f3a30098d32a2f980721ef5f35b02"
+    },
+    {
+      "path": "src/posters.js",
+      "bytes": 9360,
+      "sha256": "fe78ac4aa36b01d6710f3a057923fd5a9f3b722ea5fdbf2338bfcce4162ae1f1"
+    },
+    {
+      "path": "src/shell-bindings.json",
+      "bytes": 115,
+      "sha256": "a77a6e3aa3648cbe02ab5a7bc2b279ffbf30bb53dac32e472443cbdbf2569303"
+    },
+    {
+      "path": "THIRD_PARTY.md",
+      "bytes": 1690,
+      "sha256": "8a9e464a227cd77b1b48bf53b77c5831e079afc2d383f628e0921bf12587d114"
+    }
+  ],
+  "generatedPaths": []
+}

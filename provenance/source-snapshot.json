@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "kind": "sanitized-public-source-snapshot",
+  "files": [
+    {
+      "destination": "src/index.template.html",
+      "destinationSha256": "82fff0355dd19f12ba7a9aaf71cfc6fcdb7a0a30c960b5b2853b33895cf4907e"
+    },
+    {
+      "destination": "src/posters-data.json",
+      "destinationSha256": "42227eef3fea34eda83fe64aa3cef0bd82c404f5f7777be74683cfe064c45aab"
+    },
+    {
+      "destination": "src/posters.css",
+      "destinationSha256": "d50cfaaf1759208d484a64b6d9c42387650f3a30098d32a2f980721ef5f35b02"
+    },
+    {
+      "destination": "src/posters.js",
+      "destinationSha256": "fe78ac4aa36b01d6710f3a057923fd5a9f3b722ea5fdbf2338bfcce4162ae1f1"
+    },
+    {
+      "destination": "src/shell-bindings.json",
+      "destinationSha256": "a77a6e3aa3648cbe02ab5a7bc2b279ffbf30bb53dac32e472443cbdbf2569303"
+    }
+  ]
+}

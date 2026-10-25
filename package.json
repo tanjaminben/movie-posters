@@ -1,0 +1,14 @@
+{
+  "name": "@tanjaminben/movie-posters",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Movie Posters gallery source and image-free production provenance",
+  "engines": { "node": ">=24" },
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "check": "node --check src/posters.js && node --check scripts/build.mjs && node --check scripts/verify.mjs && node --check scripts/serve.mjs",
+    "verify": "node scripts/verify.mjs",
+    "start": "node scripts/serve.mjs"
+  }
+}

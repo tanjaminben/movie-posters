@@ -1,0 +1,18 @@
+{
+  "owner": "external shared website",
+  "sharedShellDocument": "site/work/index.html",
+  "componentPolicy": "external shared owner; no local token or SVG fork",
+  "approvedIdentity": {
+    "iconBackground": "#F2C551",
+    "glyphAndCutouts": "#15252B",
+    "titleStrokes": "#6744A2",
+    "assetPath": "site/assets/work/movie-posters-yellow.svg",
+    "assetSha256": "a37209f5b76ad034c6dd0a9ef9b657b22892374b444f77670237c53244330483"
+  },
+  "observedStyles": {
+    "path": "site/styles.css",
+    "sha256": "8daa6630a0259f9948cbfdee59212d4635d5a171f894ff3db2967100f6378a45",
+    "pinScope": "observation only; other approved shared consumers may change independently"
+  },
+  "sourceCaptureDate": "2026-10-21"
+}
