@@ -37,6 +37,8 @@ npm start -- --shell-root /path/to/shared-site --art-root /path/to/approved-imag
 
 `--shell-root` contains the shared page framing and resources. `--art-root` contains the runtime PNG names listed in `assets/manifest.json`. The preview serves `/guides/movie-posters/` on loopback.
 
+The gallery build also needs the gallery-only files under previews/, pinned by assets/gallery-previews.json. Their original-image hashes, whole-canvas resize and dimensions are recorded in the website gallery-preview manifest. Full-size reader and download files remain unchanged.
+
 ## Build and check
 
 ```sh

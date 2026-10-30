@@ -4,11 +4,11 @@
   "files": [
     {
       "destination": "src/index.template.html",
-      "destinationSha256": "82fff0355dd19f12ba7a9aaf71cfc6fcdb7a0a30c960b5b2853b33895cf4907e"
+      "destinationSha256": "c83b5a4d92b686922eb0e92e0d29c4d936a6ca8f11557623ac9845af5a26b5a7"
     },
     {
       "destination": "src/posters-data.json",
-      "destinationSha256": "42227eef3fea34eda83fe64aa3cef0bd82c404f5f7777be74683cfe064c45aab"
+      "destinationSha256": "91be1ee29710ff42b0081750039e5408dd1d222f67c2709c804762cd412fcf07"
     },
     {
       "destination": "src/posters.css",
@@ -16,11 +16,17 @@
     },
     {
       "destination": "src/posters.js",
-      "destinationSha256": "fe78ac4aa36b01d6710f3a057923fd5a9f3b722ea5fdbf2338bfcce4162ae1f1"
+      "destinationSha256": "603256450c45aa5418421c568f114bb54b6df3584a8416f826c3e9010e7607b2"
     },
     {
       "destination": "src/shell-bindings.json",
       "destinationSha256": "a77a6e3aa3648cbe02ab5a7bc2b279ffbf30bb53dac32e472443cbdbf2569303"
+    },
+    {
+      "destination": "assets/gallery-previews.json",
+      "destinationSha256": "78b76e29258ebbc3119e114c1409b179b6169234cad6582118689732bb491008"
     }
-  ]
+  ],
+  "priorManifestSha256": "705224e3c20e85973cfaa2016c6c88b5bb4a0ae788e024cf9e7a45a6ff922d4b",
+  "approval": "October 29, 2026: Ben approved migration audit A01-A17 for tuck and deploy; this owner covers gallery previews and applicable reader corrections."
 }
