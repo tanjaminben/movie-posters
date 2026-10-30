@@ -1,0 +1,797 @@
+{
+  "status": "local review candidate; original masters and readers unchanged",
+  "images": [
+    {
+      "file": "a-nightmare-on-llm-street-MP-8A1C360E28-480.webp",
+      "sha256": "d20829fed230a16236caa3512ba38dd53941952b659a430f4b908612d9d85208",
+      "bytes": 462714,
+      "sourceFile": "a-nightmare-on-llm-street-MP-8A1C360E28.png",
+      "sourceSha256": "980211b178779db2ee796f4bf501a9c047bb362d4c9652ddbe532ee1f09f574e",
+      "width": 480,
+      "height": 720
+    },
+    {
+      "file": "a-nightmare-on-llm-street-MP-8A1C360E28-960.webp",
+      "sha256": "84552e2f6134d5ec1147c00baddcff63c35236c319b668ada774ca57b87166ba",
+      "bytes": 1661304,
+      "sourceFile": "a-nightmare-on-llm-street-MP-8A1C360E28.png",
+      "sourceSha256": "980211b178779db2ee796f4bf501a9c047bb362d4c9652ddbe532ee1f09f574e",
+      "width": 960,
+      "height": 1440
+    },
+    {
+      "file": "align-MP-1BE1F02B4B-480.webp",
+      "sha256": "a8f1d55f5308835f598073aaeaaf5bfe4476d24347c950b33fb0497197597ada",
+      "bytes": 239044,
+      "sourceFile": "align-MP-1BE1F02B4B.png",
+      "sourceSha256": "401e3cb6f2f8afea884582c6651632bc42c0362a7942b00f6322f5b38a26d03c",
+      "width": 480,
+      "height": 720
+    },
+    {
+      "file": "align-MP-1BE1F02B4B-960.webp",
+      "sha256": "df97ecd153d5e17ec30b65f5c9c467ba974ef685cebf186cc70be309c1e6709a",
+      "bytes": 865044,
+      "sourceFile": "align-MP-1BE1F02B4B.png",
+      "sourceSha256": "401e3cb6f2f8afea884582c6651632bc42c0362a7942b00f6322f5b38a26d03c",
+      "width": 960,
+      "height": 1440
+    },
+    {
+      "file": "alloween-MP-DB86854770-2x3-v1-480.webp",
+      "sha256": "1f3341b727d4137426c359589fb98e131cb438cff62ff1661b0e658505d23474",
+      "bytes": 180946,
+      "sourceFile": "alloween-MP-DB86854770-2x3-v1.png",
+      "sourceSha256": "87b54b780f08c48b0e234a43d6d10fa41fffd1122a634cc5183b50fd9daf6b2b",
+      "width": 480,
+      "height": 720
+    },
+    {
+      "file": "alloween-MP-DB86854770-2x3-v1-960.webp",
+      "sha256": "70aac78db00f8afe5f43a672530fc5fdf6091495de6057e76f830a8ce75cc039",
+      "bytes": 631562,
+      "sourceFile": "alloween-MP-DB86854770-2x3-v1.png",
+      "sourceSha256": "87b54b780f08c48b0e234a43d6d10fa41fffd1122a634cc5183b50fd9daf6b2b",
+      "width": 960,
+      "height": 1440
+    },
+    {
+      "file": "background-activity-MP-A4D00ECDFA-2x3-v1-480.webp",
+      "sha256": "4405a1e73d11ae232b12721cc3358451ebc39f05c0dbefdc8ecad87a47e66404",
+      "bytes": 228574,
+      "sourceFile": "background-activity-MP-A4D00ECDFA-2x3-v1.png",
+      "sourceSha256": "34af6f9e2ffaf25d94832ff2aee74aa06de1b03a9792e1baea532d2909fca8d0",
+      "width": 480,
+      "height": 720
+    },
+    {
+      "file": "background-activity-MP-A4D00ECDFA-2x3-v1-960.webp",
+      "sha256": "861e2a6f8f904e24a6ee0a808b00db7878482ec41da04d2bc98f7cc79d4b9749",
+      "bytes": 861428,
+      "sourceFile": "background-activity-MP-A4D00ECDFA-2x3-v1.png",
+      "sourceSha256": "34af6f9e2ffaf25d94832ff2aee74aa06de1b03a9792e1baea532d2909fca8d0",
+      "width": 960,
+      "height": 1440
+    },
+    {
+      "file": "bring-her-back-MP-33877EBD1E-2x3-v5-480.webp",
+      "sha256": "eb7a2e9b2bdbb675679d41854ce3201f3c195ff6a0735c3fa3c18caa67addc0c",
+      "bytes": 334282,
+      "sourceFile": "bring-her-back-MP-33877EBD1E-2x3-v5.png",
+      "sourceSha256": "93b655d5ae8092a762c868546d37e5deb683e3d94ca1f58dfd52e006bdcf5ee1",
+      "width": 480,
+      "height": 720
+    },
+    {
+      "file": "bring-her-back-MP-33877EBD1E-2x3-v5-960.webp",
+      "sha256": "4e7dbd9dda9467d5ce5fc34f4aadc95eb67a0f6c0966ea0b87b34544ec442e73",
+      "bytes": 1377672,
+      "sourceFile": "bring-her-back-MP-33877EBD1E-2x3-v5.png",
+      "sourceSha256": "93b655d5ae8092a762c868546d37e5deb683e3d94ca1f58dfd52e006bdcf5ee1",
+      "width": 960,
+      "height": 1440
+    },
+    {
+      "file": "days-later-MP-7D2BB0AD31-2x3-v7-480.webp",
+      "sha256": "8047023c8c11719a9502fb6f2490ed921f75d638cdaf57d04efe161a562345a2",
+      "bytes": 433252,
+      "sourceFile": "days-later-MP-7D2BB0AD31-2x3-v7.png",
+      "sourceSha256": "b0fd9573382f4185edf692e4173463efb2ecb2baeae60387d386eb32c4522599",
+      "width": 480,
+      "height": 720
+    },
+    {
+      "file": "days-later-MP-7D2BB0AD31-2x3-v7-960.webp",
+      "sha256": "6f820da1c8ba6c80777c3aca125d26a4eec5a786500c7eb25dc4afb6a89e98a4",
+      "bytes": 1720676,
+      "sourceFile": "days-later-MP-7D2BB0AD31-2x3-v7.png",
+      "sourceSha256": "b0fd9573382f4185edf692e4173463efb2ecb2baeae60387d386eb32c4522599",
+      "width": 960,
+      "height": 1440
+    },
+    {
+      "file": "drag-me-to-sell-MP-88508E1973-2x3-v7-480.webp",
+      "sha256": "06b8a6c3cf4891a096255a141fc3033d72a252f625d63aea547c7149f30fe521",
+      "bytes": 415686,
+      "sourceFile": "drag-me-to-sell-MP-88508E1973-2x3-v7.png",
+      "sourceSha256": "42d04ba76bf47b39fe2e9509baec9cba594d1423711d3dd5e4d28f08aa5f8de5",
+      "width": 480,
+      "height": 720
+    },
+    {
+      "file": "drag-me-to-sell-MP-88508E1973-2x3-v7-960.webp",
+      "sha256": "df0ecedb5c03c8ff30f2370ee2f8fa3a14d47fcb01d5bc0c009f56cc35c009bd",
+      "bytes": 1610906,
+      "sourceFile": "drag-me-to-sell-MP-88508E1973-2x3-v7.png",
+      "sourceSha256": "42d04ba76bf47b39fe2e9509baec9cba594d1423711d3dd5e4d28f08aa5f8de5",
+      "width": 960,
+      "height": 1440
+    },
+    {
+      "file": "frankensteins-repo-MP-FD93675F65-480.webp",
+      "sha256": "07a1219e8e6aa862a9b0aff0e73f00b7527cfe5a02336ff298c38527643a37eb",
+      "bytes": 470682,
+      "sourceFile": "frankensteins-repo-MP-FD93675F65.png",
+      "sourceSha256": "4edb05dd2888f1ddd478fdf78b17a2308454df3ea54d4c88c332f630be8797a2",
+      "width": 480,
+      "height": 720
+    },
+    {
+      "file": "frankensteins-repo-MP-FD93675F65-960.webp",
+      "sha256": "bd8aa294acaa487e6c9224dcda6a6db1fac28d4cc0109b439ed7cc7396718f23",
+      "bytes": 1786000,
+      "sourceFile": "frankensteins-repo-MP-FD93675F65.png",
+      "sourceSha256": "4edb05dd2888f1ddd478fdf78b17a2308454df3ea54d4c88c332f630be8797a2",
+      "width": 960,
+      "height": 1440
+    },
+    {
+      "file": "i-know-what-you-trained-last-summer-MP-AD712DA93B-480.webp",
+      "sha256": "ffb3c30e2af3d30c6664be4956b9f3edb36d9f6fe7e37025a5b165064b7a2ba8",
+      "bytes": 483830,
+      "sourceFile": "i-know-what-you-trained-last-summer-MP-AD712DA93B.png",
+      "sourceSha256": "37f3386191a6dd01a98d1ae038ec94c4943e616244b481e625499988e9a15bfe",
+      "width": 480,
+      "height": 720
+    },
+    {
+      "file": "i-know-what-you-trained-last-summer-MP-AD712DA93B-960.webp",
+      "sha256": "63f66828f1914c73481daed147a6552945315db766fc9dfac126b291edb1418a",
+      "bytes": 1910582,
+      "sourceFile": "i-know-what-you-trained-last-summer-MP-AD712DA93B.png",
+      "sourceSha256": "37f3386191a6dd01a98d1ae038ec94c4943e616244b481e625499988e9a15bfe",
+      "width": 960,
+      "height": 1440
+    },
+    {
+      "file": "inherited-MP-6076BBFB79-2x3-v3-480.webp",
+      "sha256": "4c35d05b001ca042c023d7ed596994f4fa3b859c8b7a66134daa64817950af82",
+      "bytes": 337910,
+      "sourceFile": "inherited-MP-6076BBFB79-2x3-v3.png",
+      "sourceSha256": "4250d379dccdc9e6111b1b66265e222c7c85a24a4541046da9ba2cf746107384",
+      "width": 480,
+      "height": 720
+    },
+    {
+      "file": "inherited-MP-6076BBFB79-2x3-v3-960.webp",
+      "sha256": "310ed53eeae04a12447b8a690f1b6fd7b3a70902a702717da66e0e34685288d0",
+      "bytes": 1274946,
+      "sourceFile": "inherited-MP-6076BBFB79-2x3-v3.png",
+      "sourceSha256": "4250d379dccdc9e6111b1b66265e222c7c85a24a4541046da9ba2cf746107384",
+      "width": 960,
+      "height": 1440
+    },
+    {
+      "file": "invasion-of-the-data-snatchers-MP-E10DD019D7-480.webp",
+      "sha256": "bb1c5be58f472f3c6edd9580f80c76c63f587c3d304123e87e3bc92a9f574cb9",
+      "bytes": 456940,
+      "sourceFile": "invasion-of-the-data-snatchers-MP-E10DD019D7.png",
+      "sourceSha256": "bfca9d80939698430c2138b4f511d0d4906eadb06603ff784143040f52e15b12",
+      "width": 480,
+      "height": 720
+    },
+    {
+      "file": "invasion-of-the-data-snatchers-MP-E10DD019D7-960.webp",
+      "sha256": "ab5c2a2780e41f462c03d35229f248b2f3c300bdac2523f8f2f3d8c0ad7e699c",
+      "bytes": 1823674,
+      "sourceFile": "invasion-of-the-data-snatchers-MP-E10DD019D7.png",
+      "sourceSha256": "bfca9d80939698430c2138b4f511d0d4906eadb06603ff784143040f52e15b12",
+      "width": 960,
+      "height": 1440
+    },
+    {
+      "file": "laws-MP-51FDEA7EA7-2x3-v2-480.webp",
+      "sha256": "42f5c4cc37ffa7e13d4cd5efa5e13150c44769fc907b2332d1524525e269f76f",
+      "bytes": 338378,
+      "sourceFile": "laws-MP-51FDEA7EA7-2x3-v2.png",
+      "sourceSha256": "e7fdfd0f5f645b7189b562817cb631d04b46df74b825460810938b91aacb568c",
+      "width": 480,
+      "height": 720
+    },
+    {
+      "file": "laws-MP-51FDEA7EA7-2x3-v2-960.webp",
+      "sha256": "be38fae7c6989fffb07f33c72dfdf412732706f22318940339f0a5752a94dbca",
+      "bytes": 1348458,
+      "sourceFile": "laws-MP-51FDEA7EA7-2x3-v2.png",
+      "sourceSha256": "e7fdfd0f5f645b7189b562817cb631d04b46df74b825460810938b91aacb568c",
+      "width": 960,
+      "height": 1440
+    },
+    {
+      "file": "obsessed-with-your-data-MP-82B37CECCC-2x3-v2-480.webp",
+      "sha256": "405749fc3203b4445cdd5a0d4d67daecfe7860df3ec829554780af10cd960e32",
+      "bytes": 268372,
+      "sourceFile": "obsessed-with-your-data-MP-82B37CECCC-2x3-v2.png",
+      "sourceSha256": "42140ee8c0209c652204f7c6058eab71dc5ef9b3c3113a195bc34e6cfffb996a",
+      "width": 480,
+      "height": 720
+    },
+    {
+      "file": "obsessed-with-your-data-MP-82B37CECCC-2x3-v2-960.webp",
+      "sha256": "e477c971a5c47d876b734c54e490285c0077a8ac050e5d8c08ec7eb35bffbb12",
+      "bytes": 995852,
+      "sourceFile": "obsessed-with-your-data-MP-82B37CECCC-2x3-v2.png",
+      "sourceSha256": "42140ee8c0209c652204f7c6058eab71dc5ef9b3c3113a195bc34e6cfffb996a",
+      "width": 960,
+      "height": 1440
+    },
+    {
+      "file": "saas-MP-39B993BDE4-2x3-v6-480.webp",
+      "sha256": "56cfdac2bb6ddab5fd80dcbc3ef92005301ce3e4d01766ea3d5f2cf21b69c818",
+      "bytes": 418076,
+      "sourceFile": "saas-MP-39B993BDE4-2x3-v6.png",
+      "sourceSha256": "30a8fac8dcc4e6f13dc7055c6f60d5964123113769cb889126f9954acab18e81",
+      "width": 480,
+      "height": 720
+    },
+    {
+      "file": "saas-MP-39B993BDE4-2x3-v6-960.webp",
+      "sha256": "33253d2d70d0129fac98e02660ad8f70f044b9bc29ffc33d380f28e0c885879d",
+      "bytes": 1728006,
+      "sourceFile": "saas-MP-39B993BDE4-2x3-v6.png",
+      "sourceSha256": "30a8fac8dcc4e6f13dc7055c6f60d5964123113769cb889126f9954acab18e81",
+      "width": 960,
+      "height": 1440
+    },
+    {
+      "file": "shadow-it-MP-AA3CF91937-480.webp",
+      "sha256": "fc0b0f1a190bece2e95e171cf6facc2088ca19dd5787a7667c089ab2fac899e4",
+      "bytes": 359808,
+      "sourceFile": "shadow-it-MP-AA3CF91937.png",
+      "sourceSha256": "512f124bb9d65e3fdb2f3cde6d10cc9bd50cea69f8fbc4ba7e05bc618783b194",
+      "width": 480,
+      "height": 720
+    },
+    {
+      "file": "shadow-it-MP-AA3CF91937-960.webp",
+      "sha256": "d49e530013d41b57229eaa185a9081447ee350174c1ee07318422c2653f3bf33",
+      "bytes": 1293344,
+      "sourceFile": "shadow-it-MP-AA3CF91937.png",
+      "sourceSha256": "512f124bb9d65e3fdb2f3cde6d10cc9bd50cea69f8fbc4ba7e05bc618783b194",
+      "width": 960,
+      "height": 1440
+    },
+    {
+      "file": "talk-to-me-MP-07405D9732-2x3-v1-480.webp",
+      "sha256": "41404f23f7ec106ef528bd876736f0741b36d92eacb755c9888ad073e9abb6ea",
+      "bytes": 256946,
+      "sourceFile": "talk-to-me-MP-07405D9732-2x3-v1.png",
+      "sourceSha256": "f008df7921ba9a2e04a519f759d940168677de6d37ab876c3b466c44b80df872",
+      "width": 480,
+      "height": 720
+    },
+    {
+      "file": "talk-to-me-MP-07405D9732-2x3-v1-960.webp",
+      "sha256": "dffde15be99bb5e96b244c0b572483d6442a419861bcb6e490042b68a5d1444d",
+      "bytes": 980168,
+      "sourceFile": "talk-to-me-MP-07405D9732-2x3-v1.png",
+      "sourceSha256": "f008df7921ba9a2e04a519f759d940168677de6d37ab876c3b466c44b80df872",
+      "width": 960,
+      "height": 1440
+    },
+    {
+      "file": "the-black-box-project-MP-5A17BE89A8-480.webp",
+      "sha256": "f38e0e84cc4b71ee6a7287ecf8112dd5078d1f6285153b9115bd79ab7318ce3b",
+      "bytes": 268834,
+      "sourceFile": "the-black-box-project-MP-5A17BE89A8.png",
+      "sourceSha256": "0521688c551b4792c343ebd02c2279cf4fcda7b8d980ac81d8b16ad6ca698920",
+      "width": 480,
+      "height": 720
+    },
+    {
+      "file": "the-black-box-project-MP-5A17BE89A8-960.webp",
+      "sha256": "c2f67e32380ced7653dff4b123964a1cbead803e3e9c8e9d32454c23ee82d34a",
+      "bytes": 1115604,
+      "sourceFile": "the-black-box-project-MP-5A17BE89A8.png",
+      "sourceSha256": "0521688c551b4792c343ebd02c2279cf4fcda7b8d980ac81d8b16ad6ca698920",
+      "width": 960,
+      "height": 1440
+    },
+    {
+      "file": "the-consenting-MP-D191E99B7E-480.webp",
+      "sha256": "094d6b20bb832d18eecac2181e9018a2cf0a0c293696774aa3320c819b5b9ad8",
+      "bytes": 450864,
+      "sourceFile": "the-consenting-MP-D191E99B7E.png",
+      "sourceSha256": "a5c938873389f71af77741b2db041b68adbe2924b8102c8860ae8cc2184c5673",
+      "width": 480,
+      "height": 720
+    },
+    {
+      "file": "the-consenting-MP-D191E99B7E-960.webp",
+      "sha256": "0276f12566612f2c57f50ce3b225f9961ccaf0647a7de258fc4e86a0d2b28a7c",
+      "bytes": 1739582,
+      "sourceFile": "the-consenting-MP-D191E99B7E.png",
+      "sourceSha256": "a5c938873389f71af77741b2db041b68adbe2924b8102c8860ae8cc2184c5673",
+      "width": 960,
+      "height": 1440
+    },
+    {
+      "file": "the-covered-entity-MP-379FDCCB62-480.webp",
+      "sha256": "954e7fc451c3f2cdf9c4970c483c66216b036ebd3940cf7536bde1e0c50664c0",
+      "bytes": 434966,
+      "sourceFile": "the-covered-entity-MP-379FDCCB62.png",
+      "sourceSha256": "9ee421e8f7df9bf99192f2075d17d1009bc4e03174c0c435f77ef4a5999b46c7",
+      "width": 480,
+      "height": 720
+    },
+    {
+      "file": "the-covered-entity-MP-379FDCCB62-960.webp",
+      "sha256": "259113ff4b192c67d369e5a28c956f5bbfe74a9573255dcd8dadebbf0548dfd2",
+      "bytes": 1739222,
+      "sourceFile": "the-covered-entity-MP-379FDCCB62.png",
+      "sourceSha256": "9ee421e8f7df9bf99192f2075d17d1009bc4e03174c0c435f77ef4a5999b46c7",
+      "width": 960,
+      "height": 1440
+    },
+    {
+      "file": "the-databook-MP-D437502266-2x3-v7-480.webp",
+      "sha256": "ab0d14ea5a560f39ce5531079a0020a34e408b0b7b9da1324f1e3b60a978b585",
+      "bytes": 355366,
+      "sourceFile": "the-databook-MP-D437502266-2x3-v7.png",
+      "sourceSha256": "af10bbadee7332d5814bcc47090f79e2b84695f6476fed5c2241de4decfded35",
+      "width": 480,
+      "height": 720
+    },
+    {
+      "file": "the-databook-MP-D437502266-2x3-v7-960.webp",
+      "sha256": "a7047a00fbceab91ea54f49736aa16b2bf389485690c04119c125f7030730e07",
+      "bytes": 1440740,
+      "sourceFile": "the-databook-MP-D437502266-2x3-v7.png",
+      "sourceSha256": "af10bbadee7332d5814bcc47090f79e2b84695f6476fed5c2241de4decfded35",
+      "width": 960,
+      "height": 1440
+    },
+    {
+      "file": "the-exportist-MP-D07C925B18-480.webp",
+      "sha256": "2b7736c5bd1ef0af97223dd3e50af4c4fb78a477588375c75de9a82b8995cebf",
+      "bytes": 203700,
+      "sourceFile": "the-exportist-MP-D07C925B18.png",
+      "sourceSha256": "1903b07bf83bf9f8383179de56491c47b1957dab4225b111deda05f8d605528a",
+      "width": 480,
+      "height": 720
+    },
+    {
+      "file": "the-exportist-MP-D07C925B18-960.webp",
+      "sha256": "562338f0aa098a6cffdaa99b49352c5abbfcc2238758e742786ddb907fbc96d7",
+      "bytes": 807238,
+      "sourceFile": "the-exportist-MP-D07C925B18.png",
+      "sourceSha256": "1903b07bf83bf9f8383179de56491c47b1957dab4225b111deda05f8d605528a",
+      "width": 960,
+      "height": 1440
+    },
+    {
+      "file": "the-merge-MP-280C0A1AEB-2x3-v5-480.webp",
+      "sha256": "8fbfe01718da8aec5763b19a70f4a1a56bc4bce8081d0810665e044f8efcc58d",
+      "bytes": 349430,
+      "sourceFile": "the-merge-MP-280C0A1AEB-2x3-v5.png",
+      "sourceSha256": "471fae4c98eef6d146dcb80782fbdea29f3e867919ca702967597821a1151658",
+      "width": 480,
+      "height": 720
+    },
+    {
+      "file": "the-merge-MP-280C0A1AEB-2x3-v5-960.webp",
+      "sha256": "beb1c24e43e0dbd9931d72443b41679c7b2532c8ab5cb853a6d44f8678f57e36",
+      "bytes": 1477966,
+      "sourceFile": "the-merge-MP-280C0A1AEB-2x3-v5.png",
+      "sourceSha256": "471fae4c98eef6d146dcb80782fbdea29f3e867919ca702967597821a1151658",
+      "width": 960,
+      "height": 1440
+    },
+    {
+      "file": "the-nudge-MP-42447BB341-2x3-v5-480.webp",
+      "sha256": "72d8de4c8f0bb2a1cb23ad5b7abfc2427bcc0052c90b1fbe4082e72559216551",
+      "bytes": 254778,
+      "sourceFile": "the-nudge-MP-42447BB341-2x3-v5.png",
+      "sourceSha256": "dbe3c6e6bfc2efab3ab2ba5daa004341223ec7b6ea1a892b8fdae190beb526ff",
+      "width": 480,
+      "height": 720
+    },
+    {
+      "file": "the-nudge-MP-42447BB341-2x3-v5-960.webp",
+      "sha256": "c480fd477d572d16345d02816f25187787a1d383c51328622e92cf63c5609dc2",
+      "bytes": 1037980,
+      "sourceFile": "the-nudge-MP-42447BB341-2x3-v5.png",
+      "sourceSha256": "dbe3c6e6bfc2efab3ab2ba5daa004341223ec7b6ea1a892b8fdae190beb526ff",
+      "width": 960,
+      "height": 1440
+    },
+    {
+      "file": "the-ping-MP-037875998F-2x3-v1-480.webp",
+      "sha256": "3b304fbd8c782d879c0c170031b962700023cd0aba87cde52cb7bb20a1353d66",
+      "bytes": 225840,
+      "sourceFile": "the-ping-MP-037875998F-2x3-v1.png",
+      "sourceSha256": "afa9dbe892322ffadaea91edf44901b2cb894d7e6fbdd47577e53c1b8f7eb090",
+      "width": 480,
+      "height": 720
+    },
+    {
+      "file": "the-ping-MP-037875998F-2x3-v1-960.webp",
+      "sha256": "ee1b7074d1991210348630b2f48509a842d88183bc361eca748831ced08019a3",
+      "bytes": 904702,
+      "sourceFile": "the-ping-MP-037875998F-2x3-v1.png",
+      "sourceSha256": "afa9dbe892322ffadaea91edf44901b2cb894d7e6fbdd47577e53c1b8f7eb090",
+      "width": 960,
+      "height": 1440
+    },
+    {
+      "file": "the-subprocessor-MP-3B9B4F7D98-480.webp",
+      "sha256": "c6a9b73598cd7f5a00c489b9efbc5aaf800166cb3f291dc9aeac6b5d5d15feee",
+      "bytes": 224466,
+      "sourceFile": "the-subprocessor-MP-3B9B4F7D98.png",
+      "sourceSha256": "d276869fbc258a54bad07f9cba50cc47c7061334dd46e41a8472ef124502c750",
+      "width": 480,
+      "height": 720
+    },
+    {
+      "file": "the-subprocessor-MP-3B9B4F7D98-960.webp",
+      "sha256": "b3033b72fb54b108286257d3b1716aa4cfbf33b544c5e6029b9a87125666353d",
+      "bytes": 805962,
+      "sourceFile": "the-subprocessor-MP-3B9B4F7D98.png",
+      "sourceSha256": "d276869fbc258a54bad07f9cba50cc47c7061334dd46e41a8472ef124502c750",
+      "width": 960,
+      "height": 1440
+    },
+    {
+      "file": "the-svvitch-MP-EB40D61E88-480.webp",
+      "sha256": "b0ae7d1c35c29215b7efebe57cd7ec2e47c624679e66086e049221c6ee4262c3",
+      "bytes": 243594,
+      "sourceFile": "the-svvitch-MP-EB40D61E88.png",
+      "sourceSha256": "e4643ff9320d4176ddae9ad6a36c612ee116f792eb3c7c84dd336bd9245992aa",
+      "width": 480,
+      "height": 720
+    },
+    {
+      "file": "the-svvitch-MP-EB40D61E88-960.webp",
+      "sha256": "e62eb06ffc1ee6650d5315b43da686c97a160677d2a0c3b519a31a8b6ba1b9fa",
+      "bytes": 981558,
+      "sourceFile": "the-svvitch-MP-EB40D61E88.png",
+      "sourceSha256": "e4643ff9320d4176ddae9ad6a36c612ee116f792eb3c7c84dd336bd9245992aa",
+      "width": 960,
+      "height": 1440
+    },
+    {
+      "file": "the-terms-and-conditions-massacre-MP-DAA43E8721-2x3-v5-480.webp",
+      "sha256": "ecc48a1b704a03d1debe20945d4d9ae5ae14032d16e5a416971908a3407ca899",
+      "bytes": 354890,
+      "sourceFile": "the-terms-and-conditions-massacre-MP-DAA43E8721-2x3-v5.png",
+      "sourceSha256": "d3bdc25bc877f3841a9977e94f18b385a82caa09cb0fd32efcd03a74eab32051",
+      "width": 480,
+      "height": 720
+    },
+    {
+      "file": "the-terms-and-conditions-massacre-MP-DAA43E8721-2x3-v5-960.webp",
+      "sha256": "d1c6a7914e0c9742b22851f828e5f84563358d740915e522f6ac25ef7819980c",
+      "bytes": 1373076,
+      "sourceFile": "the-terms-and-conditions-massacre-MP-DAA43E8721-2x3-v5.png",
+      "sourceSha256": "d3bdc25bc877f3841a9977e94f18b385a82caa09cb0fd32efcd03a74eab32051",
+      "width": 960,
+      "height": 1440
+    },
+    {
+      "file": "the-privacy-wizard-and-the-forbidden-dataset-MP-FD0A01F52B-480.webp",
+      "sha256": "8a5a2ce171aa87318135810f1c3071403c74725505bb3ded7f3f9fffc71caf36",
+      "bytes": 460958,
+      "sourceFile": "the-privacy-wizard-and-the-forbidden-dataset-MP-FD0A01F52B.png",
+      "sourceSha256": "e1c532a37f6f8e46175b2f61bb72ecf325c59bdd796aae85abd09d244c9fed87",
+      "width": 480,
+      "height": 720
+    },
+    {
+      "file": "the-privacy-wizard-and-the-forbidden-dataset-MP-FD0A01F52B-960.webp",
+      "sha256": "4a732981f99a43207145d764da073161fad69866d08e128dd0ade7e6849fe813",
+      "bytes": 1757686,
+      "sourceFile": "the-privacy-wizard-and-the-forbidden-dataset-MP-FD0A01F52B.png",
+      "sourceSha256": "e1c532a37f6f8e46175b2f61bb72ecf325c59bdd796aae85abd09d244c9fed87",
+      "width": 960,
+      "height": 1440
+    },
+    {
+      "file": "the-privacy-wizard-and-the-chamber-of-proxy-variables-MP-7996D167A2-480.webp",
+      "sha256": "df370ba8fc54521508f774fe04d0306d07b11c3b38821835e25589357235fcf8",
+      "bytes": 494670,
+      "sourceFile": "the-privacy-wizard-and-the-chamber-of-proxy-variables-MP-7996D167A2.png",
+      "sourceSha256": "7913ad808114776a22a72afca3ef9343a24c3b614a02f3d708c62a928ad0301c",
+      "width": 480,
+      "height": 720
+    },
+    {
+      "file": "the-privacy-wizard-and-the-chamber-of-proxy-variables-MP-7996D167A2-960.webp",
+      "sha256": "d3e8312cc3ac42fff4c3548c5b39ccc6b83ba494271c4135444da2d6632530ee",
+      "bytes": 1855944,
+      "sourceFile": "the-privacy-wizard-and-the-chamber-of-proxy-variables-MP-7996D167A2.png",
+      "sourceSha256": "7913ad808114776a22a72afca3ef9343a24c3b614a02f3d708c62a928ad0301c",
+      "width": 960,
+      "height": 1440
+    },
+    {
+      "file": "the-privacy-wizard-and-the-prisoner-of-retention-MP-A56F163A63-480.webp",
+      "sha256": "274836ba722943fbcb2463ee2ea353f350d3038efdca4203139f5a83cdcc767f",
+      "bytes": 469732,
+      "sourceFile": "the-privacy-wizard-and-the-prisoner-of-retention-MP-A56F163A63.png",
+      "sourceSha256": "7416870880af6ca77b9dfc69fcd365eb3e88216beceedfe1ff9951dd785cbf30",
+      "width": 480,
+      "height": 720
+    },
+    {
+      "file": "the-privacy-wizard-and-the-prisoner-of-retention-MP-A56F163A63-960.webp",
+      "sha256": "13309b3b12569e78141621c5e38701dd7be81d341e161c0486077ec3a893d301",
+      "bytes": 1820568,
+      "sourceFile": "the-privacy-wizard-and-the-prisoner-of-retention-MP-A56F163A63.png",
+      "sourceSha256": "7416870880af6ca77b9dfc69fcd365eb3e88216beceedfe1ff9951dd785cbf30",
+      "width": 960,
+      "height": 1440
+    },
+    {
+      "file": "the-privacy-wizard-and-the-goblet-of-consent-MP-4FDEBEC4C0-480.webp",
+      "sha256": "72d4b6e09906f6c2bdef1d686cc8f1a7ea5245b9932087bd2f1a341460f795a8",
+      "bytes": 508050,
+      "sourceFile": "the-privacy-wizard-and-the-goblet-of-consent-MP-4FDEBEC4C0.png",
+      "sourceSha256": "3dafc07154fdabbe3144b5b916c486d4b7883792c90de5c84b94ed72730401bd",
+      "width": 480,
+      "height": 720
+    },
+    {
+      "file": "the-privacy-wizard-and-the-goblet-of-consent-MP-4FDEBEC4C0-960.webp",
+      "sha256": "67150fdd9104fd5df12cd458336df44f74aa5321f86105045c5fab1330036313",
+      "bytes": 2049754,
+      "sourceFile": "the-privacy-wizard-and-the-goblet-of-consent-MP-4FDEBEC4C0.png",
+      "sourceSha256": "3dafc07154fdabbe3144b5b916c486d4b7883792c90de5c84b94ed72730401bd",
+      "width": 960,
+      "height": 1440
+    },
+    {
+      "file": "the-privacy-wizard-and-the-order-of-accountability-MP-D94D023C06-480.webp",
+      "sha256": "336bde0c9ba70e7aebc155c913975b107407e062865996d76cd972293b9af856",
+      "bytes": 554436,
+      "sourceFile": "the-privacy-wizard-and-the-order-of-accountability-MP-D94D023C06.png",
+      "sourceSha256": "a3077886cae4a30b69b214228499e5f24b196e2aa31105727322d3eed07ff7ec",
+      "width": 480,
+      "height": 720
+    },
+    {
+      "file": "the-privacy-wizard-and-the-order-of-accountability-MP-D94D023C06-960.webp",
+      "sha256": "d0ca770676553edaa20110716c7e4336152bc3ec5c21bd0697b473335cef94f4",
+      "bytes": 2217842,
+      "sourceFile": "the-privacy-wizard-and-the-order-of-accountability-MP-D94D023C06.png",
+      "sourceSha256": "a3077886cae4a30b69b214228499e5f24b196e2aa31105727322d3eed07ff7ec",
+      "width": 960,
+      "height": 1440
+    },
+    {
+      "file": "the-privacy-wizard-and-the-half-trained-model-MP-FA81694EFA-480.webp",
+      "sha256": "83c304a2f9d4a4186937459e233782a4511fe06be20b37986e60d6500b8e4a49",
+      "bytes": 547594,
+      "sourceFile": "the-privacy-wizard-and-the-half-trained-model-MP-FA81694EFA.png",
+      "sourceSha256": "2dce184586e8bac2b9ef700cd5c70a2aaeca5f864fa63770265cd307bb7fd694",
+      "width": 480,
+      "height": 720
+    },
+    {
+      "file": "the-privacy-wizard-and-the-half-trained-model-MP-FA81694EFA-960.webp",
+      "sha256": "5fda491c2c40a6afab35d6351e01abda6a8c136f1a20a85e736932fb1881d99e",
+      "bytes": 2214314,
+      "sourceFile": "the-privacy-wizard-and-the-half-trained-model-MP-FA81694EFA.png",
+      "sourceSha256": "2dce184586e8bac2b9ef700cd5c70a2aaeca5f864fa63770265cd307bb7fd694",
+      "width": 960,
+      "height": 1440
+    },
+    {
+      "file": "the-privacy-wizard-and-the-deadly-defaults-MP-EE14D128A1-480.webp",
+      "sha256": "29326a6595c7e84efe271f0d159fa9d44d58acd471ee53f173e6e30779e8edfd",
+      "bytes": 495386,
+      "sourceFile": "the-privacy-wizard-and-the-deadly-defaults-MP-EE14D128A1.png",
+      "sourceSha256": "9cbc55fe68a2f3c581fc290dece3630e25b0c3c37174f1b1b1693c9704393d47",
+      "width": 480,
+      "height": 720
+    },
+    {
+      "file": "the-privacy-wizard-and-the-deadly-defaults-MP-EE14D128A1-960.webp",
+      "sha256": "898948918a029a85db586ee9c5b164b438450bdf2359a802e10673ca474c512d",
+      "bytes": 1862178,
+      "sourceFile": "the-privacy-wizard-and-the-deadly-defaults-MP-EE14D128A1.png",
+      "sourceSha256": "9cbc55fe68a2f3c581fc290dece3630e25b0c3c37174f1b1b1693c9704393d47",
+      "width": 960,
+      "height": 1440
+    },
+    {
+      "file": "privacy-wars-episode-i-the-phantom-purpose-MP-8FC39256AD-480.webp",
+      "sha256": "e3af4998aac1b2c5a5c8eb565d95fecbf8ff49e19dac15f3148287c4eb73dc3e",
+      "bytes": 465808,
+      "sourceFile": "privacy-wars-episode-i-the-phantom-purpose-MP-8FC39256AD.png",
+      "sourceSha256": "faa161f82f4d688de7cd37b8dca2b9f129db5f0b25fa96d540e8c356d41a0c85",
+      "width": 480,
+      "height": 720
+    },
+    {
+      "file": "privacy-wars-episode-i-the-phantom-purpose-MP-8FC39256AD-960.webp",
+      "sha256": "0808e2a909e72c2e59149786b8bce2f66143cf1679081d637ea66a75b80d18e8",
+      "bytes": 1759138,
+      "sourceFile": "privacy-wars-episode-i-the-phantom-purpose-MP-8FC39256AD.png",
+      "sourceSha256": "faa161f82f4d688de7cd37b8dca2b9f129db5f0b25fa96d540e8c356d41a0c85",
+      "width": 960,
+      "height": 1440
+    },
+    {
+      "file": "privacy-wars-episode-ii-attack-of-the-data-clones-MP-E880729FF7-480.webp",
+      "sha256": "3b95a27b8f803b553c5cac98b71d38572dc85126092410fa912639df89af4cb8",
+      "bytes": 423766,
+      "sourceFile": "privacy-wars-episode-ii-attack-of-the-data-clones-MP-E880729FF7.png",
+      "sourceSha256": "700b1145183112b837fdee93b22af421a95b73917b56718f129e97a64dda5c4a",
+      "width": 480,
+      "height": 720
+    },
+    {
+      "file": "privacy-wars-episode-ii-attack-of-the-data-clones-MP-E880729FF7-960.webp",
+      "sha256": "bdc57bd6e0cf159997c3cde729e9c1f808c34632c5dc937b86816273c7c40268",
+      "bytes": 1573780,
+      "sourceFile": "privacy-wars-episode-ii-attack-of-the-data-clones-MP-E880729FF7.png",
+      "sourceSha256": "700b1145183112b837fdee93b22af421a95b73917b56718f129e97a64dda5c4a",
+      "width": 960,
+      "height": 1440
+    },
+    {
+      "file": "privacy-wars-episode-iii-revenge-of-the-dark-pattern-MP-1C57DD82DE-480.webp",
+      "sha256": "05b0478938f27feba801325724ebd93e79fe5acb7b63199e221827f4be975626",
+      "bytes": 453968,
+      "sourceFile": "privacy-wars-episode-iii-revenge-of-the-dark-pattern-MP-1C57DD82DE.png",
+      "sourceSha256": "b3be22f9b8e9e297f7a7828ad3c9a856b616c57fe627378d1b1f9e69f90c059f",
+      "width": 480,
+      "height": 720
+    },
+    {
+      "file": "privacy-wars-episode-iii-revenge-of-the-dark-pattern-MP-1C57DD82DE-960.webp",
+      "sha256": "d874d1734d11fbd4cb60e85f2430b575ff5839de7eb0396843de0a11e49cbf58",
+      "bytes": 1814450,
+      "sourceFile": "privacy-wars-episode-iii-revenge-of-the-dark-pattern-MP-1C57DD82DE.png",
+      "sourceSha256": "b3be22f9b8e9e297f7a7828ad3c9a856b616c57fe627378d1b1f9e69f90c059f",
+      "width": 960,
+      "height": 1440
+    },
+    {
+      "file": "privacy-wars-episode-iv-a-new-default-MP-449C56D499-480.webp",
+      "sha256": "91f970f6e55df6b57c46795c3756dcde6cf23e80fd9275c42c68d3825d50af4d",
+      "bytes": 486692,
+      "sourceFile": "privacy-wars-episode-iv-a-new-default-MP-449C56D499.png",
+      "sourceSha256": "3f9ef8dc1deea139c8ef642c35cc2de88befd82f6ddb2c8bfb06398dc95c74d4",
+      "width": 480,
+      "height": 720
+    },
+    {
+      "file": "privacy-wars-episode-iv-a-new-default-MP-449C56D499-960.webp",
+      "sha256": "a73476eff7359dac9f81dcca1381b7d26bac84d25df6e182577a363adbad6647",
+      "bytes": 1989842,
+      "sourceFile": "privacy-wars-episode-iv-a-new-default-MP-449C56D499.png",
+      "sourceSha256": "3f9ef8dc1deea139c8ef642c35cc2de88befd82f6ddb2c8bfb06398dc95c74d4",
+      "width": 960,
+      "height": 1440
+    },
+    {
+      "file": "privacy-wars-episode-v-the-platform-strikes-back-MP-9C68B044BB-480.webp",
+      "sha256": "a09f587b4b524cca15d746088d1759953cd57f2bea196035eb7ccc7e6241089c",
+      "bytes": 468200,
+      "sourceFile": "privacy-wars-episode-v-the-platform-strikes-back-MP-9C68B044BB.png",
+      "sourceSha256": "01d8897cda17bbe96da5790c6da397b0ef52695cfe0fe0610842050962940c23",
+      "width": 480,
+      "height": 720
+    },
+    {
+      "file": "privacy-wars-episode-v-the-platform-strikes-back-MP-9C68B044BB-960.webp",
+      "sha256": "c30f7c475bab5cef5480b7b2bb8dbe7fdbb983fa663ab0f517f9380a91878b76",
+      "bytes": 1873274,
+      "sourceFile": "privacy-wars-episode-v-the-platform-strikes-back-MP-9C68B044BB.png",
+      "sourceSha256": "01d8897cda17bbe96da5790c6da397b0ef52695cfe0fe0610842050962940c23",
+      "width": 960,
+      "height": 1440
+    },
+    {
+      "file": "privacy-wars-episode-vi-return-of-the-audit-trail-MP-C494970CAC-480.webp",
+      "sha256": "da1f541fc3d36ab5928589e0e810c27ddd54e634eb3d5921e4655b250733c7ae",
+      "bytes": 461146,
+      "sourceFile": "privacy-wars-episode-vi-return-of-the-audit-trail-MP-C494970CAC.png",
+      "sourceSha256": "72f0e585b455e6c1baff21da118d71a07b49bb03446ff5c2274d4d230019edc7",
+      "width": 480,
+      "height": 720
+    },
+    {
+      "file": "privacy-wars-episode-vi-return-of-the-audit-trail-MP-C494970CAC-960.webp",
+      "sha256": "a333c9ffc5c9fd59d609ca7dad30fcf882630a90584acb7a6070ed10d52fad97",
+      "bytes": 1846418,
+      "sourceFile": "privacy-wars-episode-vi-return-of-the-audit-trail-MP-C494970CAC.png",
+      "sourceSha256": "72f0e585b455e6c1baff21da118d71a07b49bb03446ff5c2274d4d230019edc7",
+      "width": 960,
+      "height": 1440
+    },
+    {
+      "file": "privacy-wars-episode-vii-the-rights-awaken-MP-C700713964-480.webp",
+      "sha256": "e6fa975395935ddfcc0f7d638751849bc8d004b65e062459d2ab6fac15e9bc30",
+      "bytes": 522758,
+      "sourceFile": "privacy-wars-episode-vii-the-rights-awaken-MP-C700713964.png",
+      "sourceSha256": "c5a23c36efcf09f6b7c942a02bf7d5eeff193b503b8ce8a3258ecdba6a5b1bed",
+      "width": 480,
+      "height": 720
+    },
+    {
+      "file": "privacy-wars-episode-vii-the-rights-awaken-MP-C700713964-960.webp",
+      "sha256": "2adf435c6a18ee3b9a5941680e60de1ee435b6717a2b406c05f96380e4e07e2e",
+      "bytes": 2111996,
+      "sourceFile": "privacy-wars-episode-vii-the-rights-awaken-MP-C700713964.png",
+      "sourceSha256": "c5a23c36efcf09f6b7c942a02bf7d5eeff193b503b8ce8a3258ecdba6a5b1bed",
+      "width": 960,
+      "height": 1440
+    },
+    {
+      "file": "the-consent-matrix-MP-091A83E244-480.webp",
+      "sha256": "0ff76932f10956fbde13def246bc41f5a8697c5fe7a3a4158b93ecae84993e77",
+      "bytes": 496078,
+      "sourceFile": "the-consent-matrix-MP-091A83E244.png",
+      "sourceSha256": "5972f52d7a9ba417198c3db78343ca98f5871eaa45dbf37b0f247577122d22ee",
+      "width": 480,
+      "height": 720
+    },
+    {
+      "file": "the-consent-matrix-MP-091A83E244-960.webp",
+      "sha256": "20bdf9705264bc8cf9fcc6c8b3b1d4fc16fed4effee383bb1d5d1befb1b104c2",
+      "bytes": 1903984,
+      "sourceFile": "the-consent-matrix-MP-091A83E244.png",
+      "sourceSha256": "5972f52d7a9ba417198c3db78343ca98f5871eaa45dbf37b0f247577122d22ee",
+      "width": 960,
+      "height": 1440
+    },
+    {
+      "file": "the-consent-matrix-reloaded-MP-12307DE7A3-480.webp",
+      "sha256": "e79018dbe8b63d0a2fd35d90f0e60f6887113021186a33acd005c8a3254c5125",
+      "bytes": 490464,
+      "sourceFile": "the-consent-matrix-reloaded-MP-12307DE7A3.png",
+      "sourceSha256": "27ccf28c0dd56e3371c393a78c038b59adb0a756212cafd4d79c4c2c200f6a0c",
+      "width": 480,
+      "height": 720
+    },
+    {
+      "file": "the-consent-matrix-reloaded-MP-12307DE7A3-960.webp",
+      "sha256": "55bf4ab54608f4309dcb709ce03570c93021b5b9cd309b895844d6b670faf000",
+      "bytes": 1930542,
+      "sourceFile": "the-consent-matrix-reloaded-MP-12307DE7A3.png",
+      "sourceSha256": "27ccf28c0dd56e3371c393a78c038b59adb0a756212cafd4d79c4c2c200f6a0c",
+      "width": 960,
+      "height": 1440
+    },
+    {
+      "file": "the-consent-matrix-revocation-MP-7A03F88C6B-480.webp",
+      "sha256": "bf30ea3c95445eb956c47a592e83b5b9017a6b9b6cea529a85fc90a1a6a11574",
+      "bytes": 519644,
+      "sourceFile": "the-consent-matrix-revocation-MP-7A03F88C6B.png",
+      "sourceSha256": "c05481ca057a5cf6324ebd25b2d51893a514d10b2c75eec6541eca510c6b70c1",
+      "width": 480,
+      "height": 720
+    },
+    {
+      "file": "the-consent-matrix-revocation-MP-7A03F88C6B-960.webp",
+      "sha256": "27bd8092a6d33ee6ba6653c744ba2c4a70103797f2252e82e80f491e21ddc338",
+      "bytes": 2003580,
+      "sourceFile": "the-consent-matrix-revocation-MP-7A03F88C6B.png",
+      "sourceSha256": "c05481ca057a5cf6324ebd25b2d51893a514d10b2c75eec6541eca510c6b70c1",
+      "width": 960,
+      "height": 1440
+    }
+  ]
+}

@@ -76,7 +76,7 @@
   showFilmReferences(c);
   get('reader-position').textContent=`${position+1} of ${groupItems.length}`;
   const picture=document.querySelector('.reader-picture'),image=get('reader-image'),token=++renderToken;
-  picture.setAttribute('aria-busy','true');image.src=c.image;image.alt=c.alt;
+  picture.setAttribute('aria-busy','true');image.src=c.display||c.image;image.alt=c.alt;
   image.width=c.width;image.height=c.height;
   get('reader-download').href=c.image;
   get('reader-download').download=c.title.toLowerCase().replace(/[’']/g,'').replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'')+'.png';

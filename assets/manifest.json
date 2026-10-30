@@ -40,6 +40,12 @@
       "runtime": {
         "file": "a-nightmare-on-llm-street-MP-8A1C360E28.png",
         "url": "/guides/movie-posters/art/a-nightmare-on-llm-street-MP-8A1C360E28.png",
+        "sha256": "980211b178779db2ee796f4bf501a9c047bb362d4c9652ddbe532ee1f09f574e",
+        "bytes": 2861734
+      },
+      "historicalRuntime": {
+        "file": "a-nightmare-on-llm-street-MP-8A1C360E28.png",
+        "url": "/guides/movie-posters/art/a-nightmare-on-llm-street-MP-8A1C360E28.png",
         "sha256": "e42db9ddfc53148048248ebd77cf31949e49cf0830960c21ffe7995224563c12",
         "bytes": 2586804
       }
@@ -57,6 +63,12 @@
         "tt0078748"
       ],
       "runtime": {
+        "file": "align-MP-1BE1F02B4B.png",
+        "url": "/guides/movie-posters/art/align-MP-1BE1F02B4B.png",
+        "sha256": "401e3cb6f2f8afea884582c6651632bc42c0362a7942b00f6322f5b38a26d03c",
+        "bytes": 1501081
+      },
+      "historicalRuntime": {
         "file": "align-MP-1BE1F02B4B.png",
         "url": "/guides/movie-posters/art/align-MP-1BE1F02B4B.png",
         "sha256": "932d7f438368361cc927a766c52ba5da374bfd5c0ee585832395c4983a2c3758",
@@ -78,6 +90,12 @@
       "runtime": {
         "file": "alloween-MP-DB86854770-2x3-v1.png",
         "url": "/guides/movie-posters/art/alloween-MP-DB86854770-2x3-v1.png",
+        "sha256": "87b54b780f08c48b0e234a43d6d10fa41fffd1122a634cc5183b50fd9daf6b2b",
+        "bytes": 1080700
+      },
+      "historicalRuntime": {
+        "file": "alloween-MP-DB86854770-2x3-v1.png",
+        "url": "/guides/movie-posters/art/alloween-MP-DB86854770-2x3-v1.png",
         "sha256": "7137f7970b24129ff5d7a69f225e691a6d30c585102707a3ddb1abec6af523ec",
         "bytes": 1310775
       }
@@ -95,6 +113,12 @@
         "tt1179904"
       ],
       "runtime": {
+        "file": "background-activity-MP-A4D00ECDFA-2x3-v1.png",
+        "url": "/guides/movie-posters/art/background-activity-MP-A4D00ECDFA-2x3-v1.png",
+        "sha256": "34af6f9e2ffaf25d94832ff2aee74aa06de1b03a9792e1baea532d2909fca8d0",
+        "bytes": 1308757
+      },
+      "historicalRuntime": {
         "file": "background-activity-MP-A4D00ECDFA-2x3-v1.png",
         "url": "/guides/movie-posters/art/background-activity-MP-A4D00ECDFA-2x3-v1.png",
         "sha256": "98275647f296e5f6425e65b69f17aa0572e7456d746eb921bcb32373f8f4bf58",
@@ -116,6 +140,12 @@
       "runtime": {
         "file": "bring-her-back-MP-33877EBD1E-2x3-v5.png",
         "url": "/guides/movie-posters/art/bring-her-back-MP-33877EBD1E-2x3-v5.png",
+        "sha256": "93b655d5ae8092a762c868546d37e5deb683e3d94ca1f58dfd52e006bdcf5ee1",
+        "bytes": 2347558
+      },
+      "historicalRuntime": {
+        "file": "bring-her-back-MP-33877EBD1E-2x3-v5.png",
+        "url": "/guides/movie-posters/art/bring-her-back-MP-33877EBD1E-2x3-v5.png",
         "sha256": "a57d1662fc618868a82a3d0e456d96b40ad62b7691d8b51e8e7e638e1c1d4770",
         "bytes": 2842122
       }
@@ -133,6 +163,12 @@
         "tt0289043"
       ],
       "runtime": {
+        "file": "days-later-MP-7D2BB0AD31-2x3-v7.png",
+        "url": "/guides/movie-posters/art/days-later-MP-7D2BB0AD31-2x3-v7.png",
+        "sha256": "b0fd9573382f4185edf692e4173463efb2ecb2baeae60387d386eb32c4522599",
+        "bytes": 2741195
+      },
+      "historicalRuntime": {
         "file": "days-later-MP-7D2BB0AD31-2x3-v7.png",
         "url": "/guides/movie-posters/art/days-later-MP-7D2BB0AD31-2x3-v7.png",
         "sha256": "9711e9b38b3ee6a307777e2420c627595c811a6c3e2d50ef766603a8e0839406",
@@ -154,13 +190,19 @@
       "runtime": {
         "file": "drag-me-to-sell-MP-88508E1973-2x3-v7.png",
         "url": "/guides/movie-posters/art/drag-me-to-sell-MP-88508E1973-2x3-v7.png",
+        "sha256": "42d04ba76bf47b39fe2e9509baec9cba594d1423711d3dd5e4d28f08aa5f8de5",
+        "bytes": 2669295
+      },
+      "historicalRuntime": {
+        "file": "drag-me-to-sell-MP-88508E1973-2x3-v7.png",
+        "url": "/guides/movie-posters/art/drag-me-to-sell-MP-88508E1973-2x3-v7.png",
         "sha256": "e59ff4122630c22de9acf3ad9766c672ea9486a74c55946fd7eca830d5433401",
         "bytes": 2997642
       }
     },
     {
       "id": "MP-FD93675F65",
-      "title": "Frankenstein’s Repo",
+      "title": "Frankenstein\u2019s Repo",
       "group": "horror",
       "seriesOrder": 0,
       "dimensions": [
@@ -171,6 +213,12 @@
         "tt0021884"
       ],
       "runtime": {
+        "file": "frankensteins-repo-MP-FD93675F65.png",
+        "url": "/guides/movie-posters/art/frankensteins-repo-MP-FD93675F65.png",
+        "sha256": "4edb05dd2888f1ddd478fdf78b17a2308454df3ea54d4c88c332f630be8797a2",
+        "bytes": 3023530
+      },
+      "historicalRuntime": {
         "file": "frankensteins-repo-MP-FD93675F65.png",
         "url": "/guides/movie-posters/art/frankensteins-repo-MP-FD93675F65.png",
         "sha256": "90e3fdb72e0a2c6cb876cad59bb76fc97a4011b7c4698506371137728f248c06",
@@ -192,6 +240,12 @@
       "runtime": {
         "file": "i-know-what-you-trained-last-summer-MP-AD712DA93B.png",
         "url": "/guides/movie-posters/art/i-know-what-you-trained-last-summer-MP-AD712DA93B.png",
+        "sha256": "37f3386191a6dd01a98d1ae038ec94c4943e616244b481e625499988e9a15bfe",
+        "bytes": 3181988
+      },
+      "historicalRuntime": {
+        "file": "i-know-what-you-trained-last-summer-MP-AD712DA93B.png",
+        "url": "/guides/movie-posters/art/i-know-what-you-trained-last-summer-MP-AD712DA93B.png",
         "sha256": "8686b4fa21b4e0dcb1d6029a96bfcca9d742186a90967b843c1c1e3675853608",
         "bytes": 2971634
       }
@@ -209,6 +263,12 @@
         "tt7784604"
       ],
       "runtime": {
+        "file": "inherited-MP-6076BBFB79-2x3-v3.png",
+        "url": "/guides/movie-posters/art/inherited-MP-6076BBFB79-2x3-v3.png",
+        "sha256": "4250d379dccdc9e6111b1b66265e222c7c85a24a4541046da9ba2cf746107384",
+        "bytes": 2046127
+      },
+      "historicalRuntime": {
         "file": "inherited-MP-6076BBFB79-2x3-v3.png",
         "url": "/guides/movie-posters/art/inherited-MP-6076BBFB79-2x3-v3.png",
         "sha256": "b341f0416b4714163d9974ff5913eb70eb4dc83d4bb56f5591fa390530d1f203",
@@ -230,6 +290,12 @@
       "runtime": {
         "file": "invasion-of-the-data-snatchers-MP-E10DD019D7.png",
         "url": "/guides/movie-posters/art/invasion-of-the-data-snatchers-MP-E10DD019D7.png",
+        "sha256": "bfca9d80939698430c2138b4f511d0d4906eadb06603ff784143040f52e15b12",
+        "bytes": 3120795
+      },
+      "historicalRuntime": {
+        "file": "invasion-of-the-data-snatchers-MP-E10DD019D7.png",
+        "url": "/guides/movie-posters/art/invasion-of-the-data-snatchers-MP-E10DD019D7.png",
         "sha256": "5195d4737cf6b903db285dd95c423489d2285143b91b8387058d542bb681906a",
         "bytes": 2944441
       }
@@ -247,6 +313,12 @@
         "tt0073195"
       ],
       "runtime": {
+        "file": "laws-MP-51FDEA7EA7-2x3-v2.png",
+        "url": "/guides/movie-posters/art/laws-MP-51FDEA7EA7-2x3-v2.png",
+        "sha256": "e7fdfd0f5f645b7189b562817cb631d04b46df74b825460810938b91aacb568c",
+        "bytes": 2342924
+      },
+      "historicalRuntime": {
         "file": "laws-MP-51FDEA7EA7-2x3-v2.png",
         "url": "/guides/movie-posters/art/laws-MP-51FDEA7EA7-2x3-v2.png",
         "sha256": "285f5d917dff2d28aecadc106544f2f2e370d50c0cc7b66cde7a32886b4006ec",
@@ -268,6 +340,12 @@
       "runtime": {
         "file": "obsessed-with-your-data-MP-82B37CECCC-2x3-v2.png",
         "url": "/guides/movie-posters/art/obsessed-with-your-data-MP-82B37CECCC-2x3-v2.png",
+        "sha256": "42140ee8c0209c652204f7c6058eab71dc5ef9b3c3113a195bc34e6cfffb996a",
+        "bytes": 1607343
+      },
+      "historicalRuntime": {
+        "file": "obsessed-with-your-data-MP-82B37CECCC-2x3-v2.png",
+        "url": "/guides/movie-posters/art/obsessed-with-your-data-MP-82B37CECCC-2x3-v2.png",
         "sha256": "6c2c0614547a63599a578a3536c23f569b4dbc8ea4b6413afab79b91e5daa554",
         "bytes": 1789289
       }
@@ -285,6 +363,12 @@
         "tt0387564"
       ],
       "runtime": {
+        "file": "saas-MP-39B993BDE4-2x3-v6.png",
+        "url": "/guides/movie-posters/art/saas-MP-39B993BDE4-2x3-v6.png",
+        "sha256": "30a8fac8dcc4e6f13dc7055c6f60d5964123113769cb889126f9954acab18e81",
+        "bytes": 3036824
+      },
+      "historicalRuntime": {
         "file": "saas-MP-39B993BDE4-2x3-v6.png",
         "url": "/guides/movie-posters/art/saas-MP-39B993BDE4-2x3-v6.png",
         "sha256": "09f3de0c83d0efe0b89346436b5f19f63919032dfc50450a09e7ccf4c1142055",
@@ -306,6 +390,12 @@
       "runtime": {
         "file": "shadow-it-MP-AA3CF91937.png",
         "url": "/guides/movie-posters/art/shadow-it-MP-AA3CF91937.png",
+        "sha256": "512f124bb9d65e3fdb2f3cde6d10cc9bd50cea69f8fbc4ba7e05bc618783b194",
+        "bytes": 2125898
+      },
+      "historicalRuntime": {
+        "file": "shadow-it-MP-AA3CF91937.png",
+        "url": "/guides/movie-posters/art/shadow-it-MP-AA3CF91937.png",
         "sha256": "bc9c71d36ceaef3e690899f8cb92acb27a37e422169f95b41b346cc07d1e2458",
         "bytes": 2077910
       }
@@ -323,6 +413,12 @@
         "tt10638522"
       ],
       "runtime": {
+        "file": "talk-to-me-MP-07405D9732-2x3-v1.png",
+        "url": "/guides/movie-posters/art/talk-to-me-MP-07405D9732-2x3-v1.png",
+        "sha256": "f008df7921ba9a2e04a519f759d940168677de6d37ab876c3b466c44b80df872",
+        "bytes": 1661750
+      },
+      "historicalRuntime": {
         "file": "talk-to-me-MP-07405D9732-2x3-v1.png",
         "url": "/guides/movie-posters/art/talk-to-me-MP-07405D9732-2x3-v1.png",
         "sha256": "73a0b44898a050c0027e35d5784690356be815fda78694c45c98adb5ae3dc55c",
@@ -344,6 +440,12 @@
       "runtime": {
         "file": "the-black-box-project-MP-5A17BE89A8.png",
         "url": "/guides/movie-posters/art/the-black-box-project-MP-5A17BE89A8.png",
+        "sha256": "0521688c551b4792c343ebd02c2279cf4fcda7b8d980ac81d8b16ad6ca698920",
+        "bytes": 2060616
+      },
+      "historicalRuntime": {
+        "file": "the-black-box-project-MP-5A17BE89A8.png",
+        "url": "/guides/movie-posters/art/the-black-box-project-MP-5A17BE89A8.png",
         "sha256": "25c9e4ffc9c36fab2ccc2e6c8ad5f44c568b6eb5e696e504f06893d59bc51209",
         "bytes": 2185904
       }
@@ -361,6 +463,12 @@
         "tt1457767"
       ],
       "runtime": {
+        "file": "the-consenting-MP-D191E99B7E.png",
+        "url": "/guides/movie-posters/art/the-consenting-MP-D191E99B7E.png",
+        "sha256": "a5c938873389f71af77741b2db041b68adbe2924b8102c8860ae8cc2184c5673",
+        "bytes": 3109256
+      },
+      "historicalRuntime": {
         "file": "the-consenting-MP-D191E99B7E.png",
         "url": "/guides/movie-posters/art/the-consenting-MP-D191E99B7E.png",
         "sha256": "b0ae8d9dec451544b79052590bbbdc060e0bfc65491933aa47d540228c533769",
@@ -382,6 +490,12 @@
       "runtime": {
         "file": "the-covered-entity-MP-379FDCCB62.png",
         "url": "/guides/movie-posters/art/the-covered-entity-MP-379FDCCB62.png",
+        "sha256": "9ee421e8f7df9bf99192f2075d17d1009bc4e03174c0c435f77ef4a5999b46c7",
+        "bytes": 2948466
+      },
+      "historicalRuntime": {
+        "file": "the-covered-entity-MP-379FDCCB62.png",
+        "url": "/guides/movie-posters/art/the-covered-entity-MP-379FDCCB62.png",
         "sha256": "9fe3848f8a66be5b555e718cb8abb9f371a2fb29c7cb0ee9527070287c9848e3",
         "bytes": 2756825
       }
@@ -399,6 +513,12 @@
         "tt2321549"
       ],
       "runtime": {
+        "file": "the-databook-MP-D437502266-2x3-v7.png",
+        "url": "/guides/movie-posters/art/the-databook-MP-D437502266-2x3-v7.png",
+        "sha256": "af10bbadee7332d5814bcc47090f79e2b84695f6476fed5c2241de4decfded35",
+        "bytes": 2417480
+      },
+      "historicalRuntime": {
         "file": "the-databook-MP-D437502266-2x3-v7.png",
         "url": "/guides/movie-posters/art/the-databook-MP-D437502266-2x3-v7.png",
         "sha256": "4bdd8ba469b78dafd529727e4db2c6fcdb591ff4eb36d81c544143db24317d5d",
@@ -420,6 +540,12 @@
       "runtime": {
         "file": "the-exportist-MP-D07C925B18.png",
         "url": "/guides/movie-posters/art/the-exportist-MP-D07C925B18.png",
+        "sha256": "1903b07bf83bf9f8383179de56491c47b1957dab4225b111deda05f8d605528a",
+        "bytes": 1580680
+      },
+      "historicalRuntime": {
+        "file": "the-exportist-MP-D07C925B18.png",
+        "url": "/guides/movie-posters/art/the-exportist-MP-D07C925B18.png",
         "sha256": "a60042a8b865a0fb91bcfec936cdb32da779f4f82f965f50eccc17f52fecb0cb",
         "bytes": 1689646
       }
@@ -437,6 +563,12 @@
         "tt2184339"
       ],
       "runtime": {
+        "file": "the-merge-MP-280C0A1AEB-2x3-v5.png",
+        "url": "/guides/movie-posters/art/the-merge-MP-280C0A1AEB-2x3-v5.png",
+        "sha256": "471fae4c98eef6d146dcb80782fbdea29f3e867919ca702967597821a1151658",
+        "bytes": 2596689
+      },
+      "historicalRuntime": {
         "file": "the-merge-MP-280C0A1AEB-2x3-v5.png",
         "url": "/guides/movie-posters/art/the-merge-MP-280C0A1AEB-2x3-v5.png",
         "sha256": "74c4f1c689103ef2828fbe571dc96c3f5956c0aedf36b0c31fdde204681d5e92",
@@ -458,6 +590,12 @@
       "runtime": {
         "file": "the-nudge-MP-42447BB341-2x3-v5.png",
         "url": "/guides/movie-posters/art/the-nudge-MP-42447BB341-2x3-v5.png",
+        "sha256": "dbe3c6e6bfc2efab3ab2ba5daa004341223ec7b6ea1a892b8fdae190beb526ff",
+        "bytes": 1697859
+      },
+      "historicalRuntime": {
+        "file": "the-nudge-MP-42447BB341-2x3-v5.png",
+        "url": "/guides/movie-posters/art/the-nudge-MP-42447BB341-2x3-v5.png",
         "sha256": "df8d07d708554701be17f88d7d89617b8c2d7d0c4d79e6f5e54ef8eae67db8af",
         "bytes": 1691693
       }
@@ -475,6 +613,12 @@
         "tt0298130"
       ],
       "runtime": {
+        "file": "the-ping-MP-037875998F-2x3-v1.png",
+        "url": "/guides/movie-posters/art/the-ping-MP-037875998F-2x3-v1.png",
+        "sha256": "afa9dbe892322ffadaea91edf44901b2cb894d7e6fbdd47577e53c1b8f7eb090",
+        "bytes": 1699120
+      },
+      "historicalRuntime": {
         "file": "the-ping-MP-037875998F-2x3-v1.png",
         "url": "/guides/movie-posters/art/the-ping-MP-037875998F-2x3-v1.png",
         "sha256": "802639c1757e9bc2f6daa19497558ed7851b9bae4d6b8c34a81d77f3e05224a2",
@@ -496,6 +640,12 @@
       "runtime": {
         "file": "the-subprocessor-MP-3B9B4F7D98.png",
         "url": "/guides/movie-posters/art/the-subprocessor-MP-3B9B4F7D98.png",
+        "sha256": "d276869fbc258a54bad07f9cba50cc47c7061334dd46e41a8472ef124502c750",
+        "bytes": 1341266
+      },
+      "historicalRuntime": {
+        "file": "the-subprocessor-MP-3B9B4F7D98.png",
+        "url": "/guides/movie-posters/art/the-subprocessor-MP-3B9B4F7D98.png",
         "sha256": "3c76bdecf401700fbc82f0ef8d7ff35bcf15ac6dc0615a1ce8d8bf9f511a4f2f",
         "bytes": 1478670
       }
@@ -513,6 +663,12 @@
         "tt4263482"
       ],
       "runtime": {
+        "file": "the-svvitch-MP-EB40D61E88.png",
+        "url": "/guides/movie-posters/art/the-svvitch-MP-EB40D61E88.png",
+        "sha256": "e4643ff9320d4176ddae9ad6a36c612ee116f792eb3c7c84dd336bd9245992aa",
+        "bytes": 1808438
+      },
+      "historicalRuntime": {
         "file": "the-svvitch-MP-EB40D61E88.png",
         "url": "/guides/movie-posters/art/the-svvitch-MP-EB40D61E88.png",
         "sha256": "24dff9dd3e282151e816ddd84005c7e0188bf03de974a2415db6868a16145d35",
@@ -534,6 +690,12 @@
       "runtime": {
         "file": "the-terms-and-conditions-massacre-MP-DAA43E8721-2x3-v5.png",
         "url": "/guides/movie-posters/art/the-terms-and-conditions-massacre-MP-DAA43E8721-2x3-v5.png",
+        "sha256": "d3bdc25bc877f3841a9977e94f18b385a82caa09cb0fd32efcd03a74eab32051",
+        "bytes": 2351395
+      },
+      "historicalRuntime": {
+        "file": "the-terms-and-conditions-massacre-MP-DAA43E8721-2x3-v5.png",
+        "url": "/guides/movie-posters/art/the-terms-and-conditions-massacre-MP-DAA43E8721-2x3-v5.png",
         "sha256": "a4d2ae0fd96bae5c74dc5214726f86dd840439db80320e85ba50d0c0f54a2b7b",
         "bytes": 2727293
       }
@@ -551,6 +713,12 @@
         "tt0241527"
       ],
       "runtime": {
+        "file": "the-privacy-wizard-and-the-forbidden-dataset-MP-FD0A01F52B.png",
+        "url": "/guides/movie-posters/art/the-privacy-wizard-and-the-forbidden-dataset-MP-FD0A01F52B.png",
+        "sha256": "e1c532a37f6f8e46175b2f61bb72ecf325c59bdd796aae85abd09d244c9fed87",
+        "bytes": 2939272
+      },
+      "historicalRuntime": {
         "file": "the-privacy-wizard-and-the-forbidden-dataset-MP-FD0A01F52B.png",
         "url": "/guides/movie-posters/art/the-privacy-wizard-and-the-forbidden-dataset-MP-FD0A01F52B.png",
         "sha256": "e651318c14e9e2d10eb05c3d564bc583f2a48e01e23874489856e66432fd4038",
@@ -572,6 +740,12 @@
       "runtime": {
         "file": "the-privacy-wizard-and-the-chamber-of-proxy-variables-MP-7996D167A2.png",
         "url": "/guides/movie-posters/art/the-privacy-wizard-and-the-chamber-of-proxy-variables-MP-7996D167A2.png",
+        "sha256": "7913ad808114776a22a72afca3ef9343a24c3b614a02f3d708c62a928ad0301c",
+        "bytes": 2978466
+      },
+      "historicalRuntime": {
+        "file": "the-privacy-wizard-and-the-chamber-of-proxy-variables-MP-7996D167A2.png",
+        "url": "/guides/movie-posters/art/the-privacy-wizard-and-the-chamber-of-proxy-variables-MP-7996D167A2.png",
         "sha256": "029c2e9c9c2751095fdf49ba5ea8c07cd759243eed5e11d7941dbe3e360fb9d4",
         "bytes": 2742288
       }
@@ -589,6 +763,12 @@
         "tt0304141"
       ],
       "runtime": {
+        "file": "the-privacy-wizard-and-the-prisoner-of-retention-MP-A56F163A63.png",
+        "url": "/guides/movie-posters/art/the-privacy-wizard-and-the-prisoner-of-retention-MP-A56F163A63.png",
+        "sha256": "7416870880af6ca77b9dfc69fcd365eb3e88216beceedfe1ff9951dd785cbf30",
+        "bytes": 3039469
+      },
+      "historicalRuntime": {
         "file": "the-privacy-wizard-and-the-prisoner-of-retention-MP-A56F163A63.png",
         "url": "/guides/movie-posters/art/the-privacy-wizard-and-the-prisoner-of-retention-MP-A56F163A63.png",
         "sha256": "c43f9e67f3a8eff609148305583c987302fe8a4bea30883e7c8a95355083bfbc",
@@ -610,6 +790,12 @@
       "runtime": {
         "file": "the-privacy-wizard-and-the-goblet-of-consent-MP-4FDEBEC4C0.png",
         "url": "/guides/movie-posters/art/the-privacy-wizard-and-the-goblet-of-consent-MP-4FDEBEC4C0.png",
+        "sha256": "3dafc07154fdabbe3144b5b916c486d4b7883792c90de5c84b94ed72730401bd",
+        "bytes": 3472674
+      },
+      "historicalRuntime": {
+        "file": "the-privacy-wizard-and-the-goblet-of-consent-MP-4FDEBEC4C0.png",
+        "url": "/guides/movie-posters/art/the-privacy-wizard-and-the-goblet-of-consent-MP-4FDEBEC4C0.png",
         "sha256": "6b61342c85545f5a04168ae078c300c06f11a5e0cc4c416bf52b9e24e2537421",
         "bytes": 3352296
       }
@@ -629,6 +815,12 @@
       "runtime": {
         "file": "the-privacy-wizard-and-the-order-of-accountability-MP-D94D023C06.png",
         "url": "/guides/movie-posters/art/the-privacy-wizard-and-the-order-of-accountability-MP-D94D023C06.png",
+        "sha256": "a3077886cae4a30b69b214228499e5f24b196e2aa31105727322d3eed07ff7ec",
+        "bytes": 3714521
+      },
+      "historicalRuntime": {
+        "file": "the-privacy-wizard-and-the-order-of-accountability-MP-D94D023C06.png",
+        "url": "/guides/movie-posters/art/the-privacy-wizard-and-the-order-of-accountability-MP-D94D023C06.png",
         "sha256": "ef3a49b7fed3df5661e60a2268372cc24df5b42c36355becd3228e6403ae5231",
         "bytes": 3577419
       }
@@ -646,6 +838,12 @@
         "tt0417741"
       ],
       "runtime": {
+        "file": "the-privacy-wizard-and-the-half-trained-model-MP-FA81694EFA.png",
+        "url": "/guides/movie-posters/art/the-privacy-wizard-and-the-half-trained-model-MP-FA81694EFA.png",
+        "sha256": "2dce184586e8bac2b9ef700cd5c70a2aaeca5f864fa63770265cd307bb7fd694",
+        "bytes": 3711052
+      },
+      "historicalRuntime": {
         "file": "the-privacy-wizard-and-the-half-trained-model-MP-FA81694EFA.png",
         "url": "/guides/movie-posters/art/the-privacy-wizard-and-the-half-trained-model-MP-FA81694EFA.png",
         "sha256": "9b9cd8b2e64b50a3033192f872cf1b12b1349aa6484ae069173387a14385da2d",
@@ -668,13 +866,19 @@
       "runtime": {
         "file": "the-privacy-wizard-and-the-deadly-defaults-MP-EE14D128A1.png",
         "url": "/guides/movie-posters/art/the-privacy-wizard-and-the-deadly-defaults-MP-EE14D128A1.png",
+        "sha256": "9cbc55fe68a2f3c581fc290dece3630e25b0c3c37174f1b1b1693c9704393d47",
+        "bytes": 3084501
+      },
+      "historicalRuntime": {
+        "file": "the-privacy-wizard-and-the-deadly-defaults-MP-EE14D128A1.png",
+        "url": "/guides/movie-posters/art/the-privacy-wizard-and-the-deadly-defaults-MP-EE14D128A1.png",
         "sha256": "600f2ef6055891c0c943215a8150976e68a78f4ef372220724ff1280b692a52a",
         "bytes": 2914787
       }
     },
     {
       "id": "MP-8FC39256AD",
-      "title": "Privacy Wars: Episode I — The Phantom Purpose",
+      "title": "Privacy Wars: Episode I \u2014 The Phantom Purpose",
       "group": "privacy-wars",
       "seriesOrder": 1,
       "dimensions": [
@@ -687,13 +891,19 @@
       "runtime": {
         "file": "privacy-wars-episode-i-the-phantom-purpose-MP-8FC39256AD.png",
         "url": "/guides/movie-posters/art/privacy-wars-episode-i-the-phantom-purpose-MP-8FC39256AD.png",
+        "sha256": "faa161f82f4d688de7cd37b8dca2b9f129db5f0b25fa96d540e8c356d41a0c85",
+        "bytes": 2873769
+      },
+      "historicalRuntime": {
+        "file": "privacy-wars-episode-i-the-phantom-purpose-MP-8FC39256AD.png",
+        "url": "/guides/movie-posters/art/privacy-wars-episode-i-the-phantom-purpose-MP-8FC39256AD.png",
         "sha256": "36c07e6b44add75246c1ff0eab50e5bdbaa35894195931bb486f336a8b29597e",
         "bytes": 2589207
       }
     },
     {
       "id": "MP-E880729FF7",
-      "title": "Privacy Wars: Episode II — Attack of the Data Clones",
+      "title": "Privacy Wars: Episode II \u2014 Attack of the Data Clones",
       "group": "privacy-wars",
       "seriesOrder": 2,
       "dimensions": [
@@ -706,13 +916,19 @@
       "runtime": {
         "file": "privacy-wars-episode-ii-attack-of-the-data-clones-MP-E880729FF7.png",
         "url": "/guides/movie-posters/art/privacy-wars-episode-ii-attack-of-the-data-clones-MP-E880729FF7.png",
+        "sha256": "700b1145183112b837fdee93b22af421a95b73917b56718f129e97a64dda5c4a",
+        "bytes": 2582531
+      },
+      "historicalRuntime": {
+        "file": "privacy-wars-episode-ii-attack-of-the-data-clones-MP-E880729FF7.png",
+        "url": "/guides/movie-posters/art/privacy-wars-episode-ii-attack-of-the-data-clones-MP-E880729FF7.png",
         "sha256": "110bdbe9b6ec9ee6714636971800967ee80fb439fad1e24d972c52fc7813c976",
         "bytes": 2368918
       }
     },
     {
       "id": "MP-1C57DD82DE",
-      "title": "Privacy Wars: Episode III — Revenge of the Dark Pattern",
+      "title": "Privacy Wars: Episode III \u2014 Revenge of the Dark Pattern",
       "group": "privacy-wars",
       "seriesOrder": 3,
       "dimensions": [
@@ -725,13 +941,19 @@
       "runtime": {
         "file": "privacy-wars-episode-iii-revenge-of-the-dark-pattern-MP-1C57DD82DE.png",
         "url": "/guides/movie-posters/art/privacy-wars-episode-iii-revenge-of-the-dark-pattern-MP-1C57DD82DE.png",
+        "sha256": "b3be22f9b8e9e297f7a7828ad3c9a856b616c57fe627378d1b1f9e69f90c059f",
+        "bytes": 2997152
+      },
+      "historicalRuntime": {
+        "file": "privacy-wars-episode-iii-revenge-of-the-dark-pattern-MP-1C57DD82DE.png",
+        "url": "/guides/movie-posters/art/privacy-wars-episode-iii-revenge-of-the-dark-pattern-MP-1C57DD82DE.png",
         "sha256": "fdc57e0ac75b380b7a41a1e0f68f9e3d1f70ec7b2da5ed9482633b7519561ae8",
         "bytes": 2654607
       }
     },
     {
       "id": "MP-449C56D499",
-      "title": "Privacy Wars: Episode IV — A New Default",
+      "title": "Privacy Wars: Episode IV \u2014 A New Default",
       "group": "privacy-wars",
       "seriesOrder": 4,
       "dimensions": [
@@ -744,13 +966,19 @@
       "runtime": {
         "file": "privacy-wars-episode-iv-a-new-default-MP-449C56D499.png",
         "url": "/guides/movie-posters/art/privacy-wars-episode-iv-a-new-default-MP-449C56D499.png",
+        "sha256": "3f9ef8dc1deea139c8ef642c35cc2de88befd82f6ddb2c8bfb06398dc95c74d4",
+        "bytes": 3328040
+      },
+      "historicalRuntime": {
+        "file": "privacy-wars-episode-iv-a-new-default-MP-449C56D499.png",
+        "url": "/guides/movie-posters/art/privacy-wars-episode-iv-a-new-default-MP-449C56D499.png",
         "sha256": "a28fe62141f24eb9c34c2a5c50d3be5c5269644ee438d98e545d64a5b2ff60cc",
         "bytes": 3099092
       }
     },
     {
       "id": "MP-9C68B044BB",
-      "title": "Privacy Wars: Episode V — The Platform Strikes Back",
+      "title": "Privacy Wars: Episode V \u2014 The Platform Strikes Back",
       "group": "privacy-wars",
       "seriesOrder": 5,
       "dimensions": [
@@ -763,13 +991,19 @@
       "runtime": {
         "file": "privacy-wars-episode-v-the-platform-strikes-back-MP-9C68B044BB.png",
         "url": "/guides/movie-posters/art/privacy-wars-episode-v-the-platform-strikes-back-MP-9C68B044BB.png",
+        "sha256": "01d8897cda17bbe96da5790c6da397b0ef52695cfe0fe0610842050962940c23",
+        "bytes": 3102655
+      },
+      "historicalRuntime": {
+        "file": "privacy-wars-episode-v-the-platform-strikes-back-MP-9C68B044BB.png",
+        "url": "/guides/movie-posters/art/privacy-wars-episode-v-the-platform-strikes-back-MP-9C68B044BB.png",
         "sha256": "6ea58e1feaa8320adc2f05cde21fe8a7a210d39094a378c348570e0a6b634e46",
         "bytes": 2841436
       }
     },
     {
       "id": "MP-C494970CAC",
-      "title": "Privacy Wars: Episode VI — Return of the Audit Trail",
+      "title": "Privacy Wars: Episode VI \u2014 Return of the Audit Trail",
       "group": "privacy-wars",
       "seriesOrder": 6,
       "dimensions": [
@@ -782,13 +1016,19 @@
       "runtime": {
         "file": "privacy-wars-episode-vi-return-of-the-audit-trail-MP-C494970CAC.png",
         "url": "/guides/movie-posters/art/privacy-wars-episode-vi-return-of-the-audit-trail-MP-C494970CAC.png",
+        "sha256": "72f0e585b455e6c1baff21da118d71a07b49bb03446ff5c2274d4d230019edc7",
+        "bytes": 3068464
+      },
+      "historicalRuntime": {
+        "file": "privacy-wars-episode-vi-return-of-the-audit-trail-MP-C494970CAC.png",
+        "url": "/guides/movie-posters/art/privacy-wars-episode-vi-return-of-the-audit-trail-MP-C494970CAC.png",
         "sha256": "615685ec87ea3b79f34ce3fed512ca07b9462bbb030dfe91f598d6071290ea1d",
         "bytes": 2830089
       }
     },
     {
       "id": "MP-C700713964",
-      "title": "Privacy Wars: Episode VII — The Rights Awaken",
+      "title": "Privacy Wars: Episode VII \u2014 The Rights Awaken",
       "group": "privacy-wars",
       "seriesOrder": 7,
       "dimensions": [
@@ -799,6 +1039,12 @@
         "tt2488496"
       ],
       "runtime": {
+        "file": "privacy-wars-episode-vii-the-rights-awaken-MP-C700713964.png",
+        "url": "/guides/movie-posters/art/privacy-wars-episode-vii-the-rights-awaken-MP-C700713964.png",
+        "sha256": "c5a23c36efcf09f6b7c942a02bf7d5eeff193b503b8ce8a3258ecdba6a5b1bed",
+        "bytes": 3481823
+      },
+      "historicalRuntime": {
         "file": "privacy-wars-episode-vii-the-rights-awaken-MP-C700713964.png",
         "url": "/guides/movie-posters/art/privacy-wars-episode-vii-the-rights-awaken-MP-C700713964.png",
         "sha256": "a98777d9096e2d327274a0cf08e5c757a160b679de887ca14da4ef4d6316698b",
@@ -820,6 +1066,12 @@
       "runtime": {
         "file": "the-consent-matrix-MP-091A83E244.png",
         "url": "/guides/movie-posters/art/the-consent-matrix-MP-091A83E244.png",
+        "sha256": "5972f52d7a9ba417198c3db78343ca98f5871eaa45dbf37b0f247577122d22ee",
+        "bytes": 3140279
+      },
+      "historicalRuntime": {
+        "file": "the-consent-matrix-MP-091A83E244.png",
+        "url": "/guides/movie-posters/art/the-consent-matrix-MP-091A83E244.png",
         "sha256": "8e146c4805905a15353271bd69c488c13dd7ee8522161c44cecba894f5086f12",
         "bytes": 2933840
       }
@@ -837,6 +1089,12 @@
         "tt0234215"
       ],
       "runtime": {
+        "file": "the-consent-matrix-reloaded-MP-12307DE7A3.png",
+        "url": "/guides/movie-posters/art/the-consent-matrix-reloaded-MP-12307DE7A3.png",
+        "sha256": "27ccf28c0dd56e3371c393a78c038b59adb0a756212cafd4d79c4c2c200f6a0c",
+        "bytes": 3199144
+      },
+      "historicalRuntime": {
         "file": "the-consent-matrix-reloaded-MP-12307DE7A3.png",
         "url": "/guides/movie-posters/art/the-consent-matrix-reloaded-MP-12307DE7A3.png",
         "sha256": "69a63eaca21cba8cd488b44c33236a04d1b6cd282bb0e08677d2f3a363349446",
@@ -858,9 +1116,16 @@
       "runtime": {
         "file": "the-consent-matrix-revocation-MP-7A03F88C6B.png",
         "url": "/guides/movie-posters/art/the-consent-matrix-revocation-MP-7A03F88C6B.png",
+        "sha256": "c05481ca057a5cf6324ebd25b2d51893a514d10b2c75eec6541eca510c6b70c1",
+        "bytes": 3343831
+      },
+      "historicalRuntime": {
+        "file": "the-consent-matrix-revocation-MP-7A03F88C6B.png",
+        "url": "/guides/movie-posters/art/the-consent-matrix-revocation-MP-7A03F88C6B.png",
         "sha256": "88c7e8841d90e7acb43e0bd1f69cb3d876dbe586b3b7400294ac9e2db20840a2",
         "bytes": 3141575
       }
     }
-  ]
+  ],
+  "reconciledAgainst": "Existing released portfolio-site cadbf303bf6dbb87735f345dfac544cac9c9a1bf; no image bytes changed by this audit."
 }

@@ -3,16 +3,24 @@
   "sharedShellDocument": "site/work/index.html",
   "componentPolicy": "external shared owner; no local token or SVG fork",
   "approvedIdentity": {
-    "iconBackground": "#F2C551",
+    "iconBackground": "#397F9D",
     "glyphAndCutouts": "#15252B",
-    "titleStrokes": "#6744A2",
-    "assetPath": "site/assets/work/movie-posters-yellow.svg",
-    "assetSha256": "a37209f5b76ad034c6dd0a9ef9b657b22892374b444f77670237c53244330483"
+    "titleStrokes": "#6A594C",
+    "assetPath": "site/assets/projects/posters.svg",
+    "assetSha256": "7e18533413f2cfa8a11fe8efc85c6b8beb4692e12b06bcc86cea1f66a8ac8f67"
   },
   "observedStyles": {
-    "path": "site/styles.css",
-    "sha256": "8daa6630a0259f9948cbfdee59212d4635d5a171f894ff3db2967100f6378a45",
+    "path": "site/project-identities.css",
+    "sha256": "7b095439bb59838d1776cafe619a47ed5cba1f7a65d3035fa190253c3f679949",
     "pinScope": "observation only; other approved shared consumers may change independently"
   },
-  "sourceCaptureDate": "2026-10-21"
+  "sourceCaptureDate": "2026-10-29",
+  "historicalIdentity": {
+    "iconBackground": "#397F9D",
+    "glyphAndCutouts": "#15252B",
+    "titleStrokes": "#6A594C",
+    "assetPath": "site/assets/projects/posters.svg",
+    "assetSha256": "7e18533413f2cfa8a11fe8efc85c6b8beb4692e12b06bcc86cea1f66a8ac8f67"
+  },
+  "reconciliation": "Current already-released portfolio identity; website visuals remain unchanged."
 }
